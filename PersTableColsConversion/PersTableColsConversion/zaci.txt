@@ -1,0 +1,91 @@
+﻿field_name	Typ souhlasu	Důvod typu souhlasu	popis
+ABSOLV_LET			počet let doch. včetně
+ABSOLV_ZS	ŠZ	dle Paragrafu ...	počet splněných let PŠD na ZŠ
+C_TR_VYK			pořadové číslo v matrice
+CISLO_DIPL	ŠZ		evidenční číslo diplomu, výučního listu
+CISLO_O_P	S		číslo obč. průkazu
+CISLO_PASU	S		číslo pasu
+CISLO_PROT	ŠZ		evidenční číslo protokolu o výsledcích společné části maturitní zkoušky
+CISLO_VYSV	ŠZ		evidenční číslo vysvědčení o dosažení stupně vzdělání
+CISLO_ZKVZ	ŠZ		evidenční číslo vysvědčení o získání základního vzdělání
+DAT_SCHRAN			datová schránka
+DATUM_NAR			datum narození
+DM			domov mládeže
+E_MAIL	S		e-mailová adresa
+EV_CISLO			evidenční číslo žáka
+EVID_DO	ŠZ		evidován do
+EVID_OD	ŠZ		evidován od
+CHOROBY	ŠZ		choroby
+IZO_SS1	S		hlásí se na IZO (1)
+IZO_SS2	S		hlásí se na IZO (2)
+IZO_SS3	S		hlásí se na IZO (3)
+JAZYK_ZS	ŠZ		jazyk na původní škole
+JMENO	ŠZ		jméno
+KA_COBCE			adresa pro doručování-část obce
+KA_CP			adresa pro doručování-číslo popisné/číslo orientační
+KA_CPCHAR			adresa pro doručování-číslo evidenční x popisné
+KA_OBEC			adresa pro doručování-obec
+KA_PSC			adresa pro doručování-PSČ
+KA_STAT			adresa pro doručování-stát
+KA_ULICE			adresa pro doručování-ulice
+KA_VALID			adresa pro doručování ověřena v číselníku RÚIAN
+KOD_ZP	S		kód ZP
+LEKAR	S		ošetřující lékař
+MAT_SKOLA			z mateřské školy
+MISTO_NAR	ŠZ		místo narození
+MISTR			mistr odb. výcviku (trenér)
+OBOR_SS1	S		hlásí se na obor (1)
+OBOR_SS2	S		hlásí se na obor (2)
+OBOR_SS3	S		hlásí se na obor (3)
+ODESEL	ŠZ		kód ukončení vzdělávání na dané škole
+ODESEL_IZO			IZO školy, na kterou žák přestoupil nebo byl přijat do vyššího stupně vzdělávání
+ODESEL_POZ	S		poznámky k následnému vzdělávání
+ODESELOBOR	S		přijat na obor
+ODKLAD	ŠZ		odklad školní docházky
+OKRES_NAR			okres narození
+POHLAVI			pohlaví
+POZN_SPEC			specifické vzdělávací potřeby, zdravotní stav
+POZNAMKA	ND		
+POZNAMKA1	ND		
+POZNAMKA2	ND		
+PRIHL_OD	S		u ZP přihlášen od
+PRIJMENI	ŠZ		příjmení
+PRISEL	ŠZ		kód zahájení daného studia (docházky)
+PROBLEMY	ŠZ		problémy
+PUV_IZO	ŠZ		IZO původní školy
+PUV_OBOR	ŠZ		obor na původní škole
+PUV_POZN			poznámky k předchozímu vzdělávání
+PUV_PUSOB	ŠZ		původní působiště (předchozí vzdělávání)
+PUV_VZDEL	ŠZ		dosažený nejvyšší stupeň vzdělání
+RMAT	ŠZ		rok maturity na pův. škole
+RODINA	S		rodina
+RODNE_C	ŠZ		rodné číslo
+SD			číslo odd. školní družiny
+SD_PLNENI	ŠZ		žák plní ve škole povinnou školní docházku
+SOV			skupina odb. výcviku
+SPONZOR	S		sponzorská organizace
+ST_PRISL	ŠZ		státní občanství
+ST_PRISL_K	ŠZ		kvalifikátor státního občanství
+TB_COBCE	ŠZ		trvalé bydliště-část obce
+TB_CP	ŠZ		trvalé bydliště-číslo popisné/číslo orientační
+TB_CPCHAR	ŠZ		trvalé bydliště-číslo evidenční x popisné
+TB_JINE			odlišné trvalé bydliště a adresa pro doručování
+TB_OBEC	ŠZ		trvalé bydliště-obec
+TB_OKRES	ŠZ		kód okresu trvalého bydliště
+TB_PSC	ŠZ		trvalé bydliště-PSČ
+TB_STAT	ŠZ		trvalé bydliště-stát
+TB_ULICE	ŠZ		trvalé bydliště-ulice
+TB_VALID	ŠZ		trvalé bydliště ověřeno v číselníku RÚIAN
+TB_ZUJ	ŠZ		kód základní územní jednotky trvalého bydliště
+TEL_MOBIL	S		mobilní telefon
+TELEFON	S		telefon, icq, skype
+TITUL			titul
+TITUL_ZA			titul za příjmením a jménem
+TRIDA			třída
+TYPDOCH	ŠZ		typ docházky do MŠ
+UCI_SE_U			učí se u
+VYCHOVATEL			vychovatel (v domově mládeže)
+VYUCEN_PRO			vyučen pro organizaci
+ZAMERENI	ŠZ		obor- zaměření
+ZDRSKU	ŠZ		zdravotní skupina
+ZPS			změna prac. schop.

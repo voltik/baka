@@ -1,0 +1,105 @@
+﻿field_name	Typ souhlasu	Důvod typu souhlasu	popis
+APROB_ZAKL			
+APROBACE			
+BARVA			
+CIP_			
+CISLO_O_P	S		číslo obč. průkazu
+CISLO_PASU	S		číslo pasu
+DAT_DUCHOD			
+DAT_NASTUP			
+DAT_SCHRAN			
+DATUM_NAR			datum narození
+E_MAIL	S		e-mailová adresa
+FOXUSER			
+FUNKCE			
+ISIC_CIP			
+ISIC_KARTA			
+ISIC_OBJDT			
+ISIC_PLAT			
+ISIC_TYP			
+JMENO			
+KA_COBCE			adresa pro doručování-část obce
+KA_CP			adresa pro doručování-číslo popisné/číslo orientační
+KA_CPCHAR			adresa pro doručování-číslo evidenční x popisné
+KA_OBEC			adresa pro doručování-obec
+KA_PSC			adresa pro doručování-PSČ
+KA_STAT			adresa pro doručování-stát
+KA_ULICE			adresa pro doručování-ulice
+KA_VALID			adresa pro doručování ověřena v číselníku RÚIAN
+KOD_JED			
+KOD_MIST			
+KOD_ZP	S		kód ZP
+LOGIN			
+LOGIN_OUT			
+MANZEL			
+MD_DO			
+MD_OD			
+MISTO_NAR	ŠZ		místo narození
+NARODNOST			
+NAZEV_ZP			
+NEKVALIF			
+NONE			
+OKRES_NAR			okres narození
+OSOB_CISLO			
+PLAT_CELK			
+PLAT_OS_CL			
+PLAT_OS_PR			
+PLAT_P_1			
+PLAT_P_2			
+PLAT_PRIPL			
+PLAT_SPEC			
+PLAT_STUP			
+PLAT_TDN			
+PLAT_TRIDA			
+PLAT_ZAKL			
+PLAT_ZARAZ			
+POCET_DETI			
+POHLAVI			pohlaví
+POZNAMKA	ND		
+POZNAMKA1	ND		
+POZNAMKA2	ND		
+PP_DO			
+PP_DRUH			
+PP_OD			
+PRAC_ZARAZ			
+PRAXE			
+PRIHL_OD	S		u ZP přihlášen od
+PRIJ_RODNE			
+PRIJMENI	ŠZ		příjmení
+PRIORITA			
+RODNE_C	ŠZ		rodné číslo
+ROK_NASTUP			
+SPEC_ZNAL			
+SPECIALIZ			
+ST_PRISL			
+STAV			
+TB_COBCE	ŠZ		trvalé bydliště-část obce
+TB_CP	ŠZ		trvalé bydliště-číslo popisné/číslo orientační
+TB_CPCHAR	ŠZ		trvalé bydliště-číslo evidenční x popisné
+TB_JINE			odlišné trvalé bydliště a adresa pro doručování
+TB_OBEC	ŠZ		trvalé bydliště-obec
+TB_OKRES	ŠZ		kód okresu trvalého bydliště
+TB_PSC	ŠZ		trvalé bydliště-PSČ
+TB_STAT	ŠZ		trvalé bydliště-stát
+TB_ULICE	ŠZ		trvalé bydliště-ulice
+TB_VALID	ŠZ		trvalé bydliště ověřeno v číselníku RÚIAN
+TB_ZUJ	ŠZ		kód základní územní jednotky trvalého bydliště
+TEL_DOMU			
+TEL_MOBIL	S		mobilní telefon
+TEL_PROVOL			
+TEL_SKOLNI			
+TITUL			titul
+TITUL_ZA			titul za příjmením a jménem
+UCI_LETOS			
+UVAZKY_HOD			
+UVAZKY_PRO			
+UVAZKY_SKU			
+VIS_ID_C			
+VIS_KARTA			
+VIS_KATSTR			
+VIS_KATVRA			
+VYCH_PORAD			
+VZDELANI			
+WEB			
+ZAMEST_MAN			
+ZKRATKA			
