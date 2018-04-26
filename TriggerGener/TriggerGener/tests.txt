@@ -1,0 +1,8 @@
+TriggerGener.exe "Data Source=PRIBRAM01-NTB\SQLEXPRESS;Initial Catalog=bakafous;uid=admin3;pwd=admin3;" _funkce funkce 3
+
+echo ***zaci > x
+TriggerGener.exe "Server=BDEtRW63oSBETI1.bakalari.cz\SQLBETA,43126;Initial Catalog=dbeta36;uid=ubeta36;pwd=Im&]GYFG-{lo8t@D1Vs-8a;" zaci intern_kod 3 >>x
+echo ***ucitele >>x
+TriggerGener.exe "Server=BDEtRW63oSBETI1.bakalari.cz\SQLBETA,43126;Initial Catalog=dbeta36;uid=ubeta36;pwd=Im&]GYFG-{lo8t@D1Vs-8a;" ucitele intern_kod 3 >>x
+echo ***zacioz >>x
+TriggerGener.exe "Server=BDEtRW63oSBETI1.bakalari.cz\SQLBETA,43126;Initial Catalog=dbeta36;uid=ubeta36;pwd=Im&]GYFG-{lo8t@D1Vs-8a;" zacioz ID 3 >>x

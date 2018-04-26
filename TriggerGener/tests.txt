@@ -1,0 +1,1 @@
+TriggerGener.exe "Data Source=PRIBRAM01-NTB\SQLEXPRESS;Initial Catalog=bakafous;uid=admin3;pwd=admin3;" _funkce funkce 3

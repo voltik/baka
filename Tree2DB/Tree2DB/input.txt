@@ -1,0 +1,476 @@
+﻿Úvod				chemie, fyzikální a chemické jevy, látky a tělesa, alchymie, chemická výroba	CH.ÚVOD		
+	Chemie jako věda			chemie jako vědní disciplína, čím se zabývá chemie	CH.ÚVOD.CHEMIEJAKOVĚDA		
+		Vývoj chemie		historie chemie, poznatky v dobách antiky, Starověká praktická chemie a filozofie, alchymie jako předchůdce chemie, poznatky alchymistů, počátky vědeckého přístupu k chemii, odklon od magického pojetí, významné objevy, rozvoj chemických výrob, 19. a 20. století v chemii	CH.ÚVOD.CHEMIEJAKOVĚDA.VÝVOJ		
+		Odvětví chemie		využití chemie, možnost uplatnění	CH.ÚVOD.CHEMIEJAKOVĚDA.ODVĚTVÍ		
+	Experiment			význam pokusu, pravidla zkoumání	CH.ÚVOD.EXPERIMENT		
+		Vědecká metoda		postupy pro vědecké zkoumání, důkaz, hypotéza, slepý pokus	CH.ÚVOD.EXPERIMENT.VĚDECKÁMETODA		
+		Laboratorní technika		laboratorní sklo, pomůcky, přístroje, (např.: baňka, kádinka, pipeta, filtrační papír)	CH.ÚVOD.EXPERIMENT.LABORATORNÍTECHNIKA		
+	Chemický průmysl			rozdělení chemie podle předmětu výzkumu, návaznost na další vědy	CH.ÚVOD.VÝZNAM.ODVĚTVÍ.PRŮMYSL		
+	Ochrana životního prostředí			chemický průmysl v ČR a ve světě, významné podniky v ČR, významné produkty	CH.ÚVOD.VÝZNAM.ODVĚTVÍ.OCHRANAŽP		
+	Bezpečnost			bezpečnost chemických výrob	CH.ÚVOD.BEZPEČNOST		
+		Bezpečnost práce		Bezpečnost obecně, význam ochrany zdraví, rizika	CH.ÚVOD.BEZPEČNOST.PRÁCE		
+			Ochranné pomůcky	ochrana zdraví na chemickém pracovišti	CH.ÚVOD.BEZPEČNOST.PRÁCE.POMŮCKY		
+			Pravidla práce v laboratoři	ochranné brýle, k čemu slouží a jak se používají ochranné pomůcky, brýle, štít, plášť	CH.ÚVOD.BEZPEČNOST.PRÁCE.PRAVIDLA		
+			První pomoc při zásahu chemickou látkou	bezpečnostní pravidla v laboratoři, hrozící nebezpečí, co dělat, když se stane nehoda, první pomoc	CH.ÚVOD.BEZPEČNOST.PRÁCE.PRVNÍPOMOC		
+		Nebezpečné chemikálie		prevence úrazu poleptání, co dělat při poleptání, 1. pomoc při poleptání	CH.ÚVOD.BEZPEČNOST.CHEMIKÁLIE		
+			H-věty a P-věty	dříve R a S věty, bezpečnostní věty, označení obalů	CH.ÚVOD.BEZPEČNOST.CHEMIKÁLIE.HPVĚTY		
+			Výstražné symboly	označení hořlaviny, výbušniny, žíraviny, toxické látky, látky ohrožující životní prostředí pomocí výstražných symbolů	CH.ÚVOD.BEZPEČNOST.CHEMIKÁLIE.SYMBOLY		
+Obecná a anorganická chemie				vymezení oboru, význam, uplatnění	CH.OACH		
+	Chemická látka			definice chemické látky, chemické individuum, čistota látky, většina látek kolem nás jsou směsi chemických látek, fyzikálně-chmické vlastnosti látek	CH.OACH.CHEMICKÉLÁTKY		
+	Částicové složení látek			důkazy částicového složení	CH.OACH.ČÁSTICOVÉSLOŽENÍ		
+		Atomy, molekuly, ionty		vymezení pojmů, opakování z fyziky, kation, anion	CH.OACH.ČÁSTICOVÉSLOŽENÍ.ATOMYMOLEKULYIONTY		
+			Uspořádání částic látek v různých skupenstvích	plynné, kapalné a pevné skupenství má charakteristické uspořádání částic, vliv uspořádání na vlastnosti	CH.OACH.ČÁSTICOVÉSLOŽENÍ.ATOMYMOLEKULYIONTY.SKUPENSTVÍ		
+			Prvky a sloučeniny	jak se liší, vymezení pojmů	CH.OACH.ČÁSTICOVÉSLOŽENÍ.ATOMYMOLEKULYIONTY.PRVKYASLOUČENINY		
+		Druhy vzorců		vzorec jako zobrazení složení a/nebo struktury, kdy se hodí jaký vzorec	CH.OACH.ČÁSTICOVÉSLOŽENÍ.DRUHYVZORCŮ		
+			Stechiometrický (empirický) vzorec	poměrné zastoupení prvků	CH.OACH.ČÁSTICOVÉSLOŽENÍ.DRUHYVZORCŮ.STECHIOMETRICKÝ		
+			Molekulový souhrnný (sumární) vzorec	zastoupení atomů prvků v částici	CH.OACH.ČÁSTICOVÉSLOŽENÍ.DRUHYVZORCŮ.SOUHRNNÝ		
+			Konstituční vzorec	znázornění atomů a jejich vazeb, stavba molekuly	CH.OACH.ČÁSTICOVÉSLOŽENÍ.DRUHYVZORCŮ.KONSTITUČNÍ		
+			Geometrický vzorec	znázornění prostorového uspořádání v molekule nebo krystalové jednotce	CH.OACH.ČÁSTICOVÉSLOŽENÍ.DRUHYVZORCŮ.GEOMETRICKÝ		
+			Konfigurační vzorec	znázornění rozmístění jednotlivých skupin nebo atomů v molekule, definice konfugurace	CH.OACH.ČÁSTICOVÉSLOŽENÍ.DRUHYVZORCŮ.KONFIGURAČNÍ		
+			Konformační vzorec	znázornění prostorového uspořádání v molekule nebo krystalové jednotce včetně natočení vazeb v energeticky výhodné pozici, defince konformace	CH.OACH.ČÁSTICOVÉSLOŽENÍ.DRUHYVZORCŮ.KONFORMAČNÍ		
+			Strukturní elektronový vzorec	znázornění vazebných a volných elektronů v molekule, hybridizace, tvar molekuly	CH.OACH.ČÁSTICOVÉSLOŽENÍ.DRUHYVZORCŮ.STRUKTURNÍELEKTRONOVÝ		
+		Izomerie		skupiny látek zvané izomery mají mohou mít odlišné vlastnosti, přestože mají některé vzorce stejné	CH.OACH.ČÁSTICOVÉSLOŽENÍ.IZOMERIE		
+			Konstituce, konformace, konfigurace	některé skupiny látek se liší vlastnostmi, ale mají sumární nebo strukturní vzorec stejný, konstituční izomery, tautomery, cis, trans izomerie na dvojné vazbě, E,Z izomery	CH.OACH.ČÁSTICOVÉSLOŽENÍ.IZOMERIE.KONSTITUCEKONFORMACEKONFIGURACE		
+			Optická izomerie	chiralita, enantiomery, asymetrické, racemická směs, diasteromery, epimery	CH.OACH.ČÁSTICOVÉSLOŽENÍ.IZOMERIE.OPTICKÁ		cukry - epimerace, diasteremery, alfa, beta
+	Stavba atomu			z čeho se skládá atom a jaká je jeho vnitřní stavba	CH.OACH.STAVBAATOMU		
+		Představy o stavbě atomu		historie představ a poznatků o stavbě atomu	CH.OACH.STAVBAATOMU.PŘEDSTAVY		
+		Elementární částice		částice, ze kterých se skládají atomy	CH.OACH.STAVBAATOMU.ELEMENTÁRNÍ		
+			Jádro	stavba a popis jádra atomu	CH.OACH.STAVBAATOMU.JÁDRO		
+			Jaderné částice	protony a neutrony, značení a popis	CH.OACH.STAVBAATOMU.ELEMENTÁRNÍ.JADERNÉ		
+			Elektrony	značení a popis	CH.OACH.STAVBAATOMU.ELEMENTÁRNÍ.ELEKTRON		
+			Protonové (atomové), nukleonové číslo	čísla charakterizující prvky a nuklidy, počty jaderných částic, A, Z	CH.OACH.STAVBAATOMU.JÁDRO.PROTONOVÉNUKLEONOVÉ		CH.OACH.PERIODICKASOUSTAVAPRVKU
+			Izotop, nuklid	částice se stejným protonovým ale jiným nukleonovým číslem a částice, které mají shodná jádra	CH.OACH.STAVBAATOMU.JÁDRO.IZOTOP		
+			Jaderné reakce	rozpad a slučování jader, jaderné přeměny, stabilita nuklidů	CH.OACH.STAVBAATOMU.JÁDRO.REAKCE		CH.PRŮŘEZOVÁTÉMATA.ZDROJEENERGIE.JADERNÉ
+			Poločas rozpadu	popis přeměny jader vzhledem k času, kinetická rovnice, poločas, metody datování, využití v archeologii, radiouhlíková metoda, značené sloučeniny	CH.OACH.STAVBAATOMU.JÁDRO.POLOČASROZPADU		CH.PRŮŘEZOVÁTÉMATA.ZDROJEENERGIE.JADERNÉ
+			Jaderné záření	alfa, beta, gama záření, účinky, vznik, radionuklidy	CH.OACH.STAVBAATOMU.JÁDRO.ZÁŘENÍ		CH.PRŮŘEZOVÁTÉMATA.ZDROJEENERGIE.JADERNÉ
+			Rozpadová řada	uran-radiová, uran-aktiniová, thoriová, neptuniová řada, série rozpadů nestabilních izotopů končící stabilním izotopem	CH.OACH.STAVBAATOMU.JÁDRO.ROZPADOVÁŘADA		CH.PRŮŘEZOVÁTÉMATA.ZDROJEENERGIE.JADERNÉ
+	Periodická soustava prvků			tabulka prvků, chemická tabulka, Mendělejevova tabulka, PSP, periodická soustava prvků, význam, popis, druhy	CH.OACH.PERIODICKASOUSTAVAPRVKU		
+		Periodický zákon		vlastnosti látek se periodicky opakují s rostoucím protonovým číslem, příčiny, valenční vrstva, důsledky, odhad vlastností prvku	CH.OACH.PERIODICKASOUSTAVAPRVKU.PERIODICKYZAKON		
+		PSP historie		Mendělejev, předchůdci, starší značení skupin	CH.OACH.PERIODICKASOUSTAVAPRVKU.HISTORIE		
+		Trendy v PSP		trendy velikosti atomů v PSP, popis vzniku iontů a velikost iontů v PSP, Periodická tabulka prvků, elektronegativita, kovový charakter, ionizační energie, elektronová afinita, velikost atomů, velikost atomových poloměrů, velikosti iontových poloměrů	CH.OACH.PERIODICKASOUSTAVAPRVKU.TRENDY		
+	Elektronová konfigurace prvku			valenční vrstva, valenční elektrony, orbitaly	CH.OACH.ELEKTRONOVÁKONFIGURACE		
+		Orbital		definice orbitalu a využití	CH.OACH.ELEKTRONOVÁKONFIGURACE.ORBITAL		
+		Určování a zápis elektronové konfigurace		způsoby zápisu, postup určování elektronové konfigurace	CH.OACH.ELEKTRONOVÁKONFIGURACE.URČOVÁNÍAZÁPIS		
+		Kvantová čísla		hlavní, vedlejší, magnetické a spinové kvantové číslo a jejich určování, co poisují kvantová čísla, stavy elektonů jsou "kvantované", pravděpodobnost výskytu elektronu, pudigový model atomu, planetární model atomu, Bohrův model atomu	CH.OACH.ELEKTRONOVÁKONFIGURACE.KVANTOVÁČÍSLA		
+		Výstavbový princip		vysvětlení a aplikace výstavbového principu	CH.OACH.ELEKTRONOVÁKONFIGURACE.VÝSTAVBOVÝPRINCIP		CH.OACH.PERIODICKASOUSTAVAPRVKU.PERIODICKYZAKON
+		Hundovo pravidlo		vysvětlení a aplikace Hundova pravidla	CH.OACH.ELEKTRONOVÁKONFIGURACE.HUNDOVOPRAVIDLO		
+		Elektronová konfigurace atomů v základním stavu		základní stav atomu a jeho elektronová konfigurace, určování, zápis	CH.OACH.ELEKTRONOVÁKONFIGURACE.VZÁKLADNÍMSTAVU		
+		elektronová konfigurace iontů		ion a jeho elektronová konfigurace, určování, zápis	CH.OACH.ELEKTRONOVÁKONFIGURACE.IONTŮ		
+		Základní a excitovaný stav		vliv konfigurace na vaznost, proč je uhlík čtyřvazný	CH.OACH.ELEKTRONOVÁKONFIGURACE.ZÁKLADNÍEXCITOVANÝ		
+	Elektronegativita			Elektronegativita, elektronová afinita, ionizační energie	CH.OACH.ELEKTRONEGATIVITA		
+	Vazby			co to je vazba, přehled, opakování	CH.OACH.VAZBY		CH.OACH.ČÁSTICOVÉSLOŽENÍ.DRUHYVZORCŮ.STRUKTURNÍELEKTRONOVÝ
+		Energie vazby		vznik, zánik, energie, disociační energie	CH.OACH.VAZBY.ENERGIE		
+		Druhy vazeb		kovalentní nepolární, kovalentní polárrní, iontová, rozdíl elektronegativit, kovová vazba	CH.OACH.VAZBY.DRUHY		
+				Iontové, kovalentní polární a nepolární vazby	CH.OACH.VAZBY.DRUHY.IONTOVÁKOVALENTNÍPOLÁRNÍNEPOLÁRNÍ		
+				Koordinačně-kovalentní vazba	CH.OACH.VAZBY.DRUHY.KOORDINAČNĚKOVALENTNÍ		
+				Kovová vazba, model elektronového plynu, pásová model kovové vazby	CH.OACH.VAZBY.DRUHY.KOVOVÁ		
+		Oxidační číslo		co je oxidační číslo, k čemu slouží a jak se zapisuje	CH.OACH.VAZBY.OXIDAČNÍČÍSLO		
+			Určování oxidačního čísla ze vzorce	jak se určuje oxidační číslo ze vzorce	CH.OACH.VAZBY.OXIDAČNÍČÍSLO.URČOVÁNÍ		
+		Molekulové orbitaly		význam a zápis molekulových orbitalů, vazebný a antivazebný orbital, nevazebný orbital	CH.OACH.VAZBY.MOLEKULOVÉORBITALY		
+		Vazba σ a vazba π, násobné vazby		sigma a pí vazba a jejich vlastnosti a geometrie	CH.CHEMICKÁVAZBA.PÍSIGMA		
+		Elektronová konfigurace dvouatomových stejnojaderných molekul		určování elektronové konfigurace v jednoduchých molekulách, např. H2, Cl2	CH.OACH.VAZBY.ELEKTRONOVÁ KONFIGURACE		
+		Struktura molekul s jedním centrálním atomem		určování struktury, tvaru jednoduchých molekul,  např. H2O, CH4, NH3	CH.OACH.VAZBY.STRUKTURAMOLEKUL		
+			Hybridizace	hybridizace, VSEPR, tvar molekuly, 	CH.OACH.VAZBY.HYBRIDIZACE		
+			Vaznost atomu	odvozování vaznosti atomu daného prvku	CH.OACH.VAZBY.VAZNOST		
+		Krystalové struktury		stavba krystalu, mřížka, buňka, vzorce	CH.OACH.VAZBY.KRYSTALOVÉSTRUKTURY		
+		Nevazebné interakce		druhy nevazebných interakcí, slabé, silné, směrové, nesměrové	CH.OACH.VAZBY.NEVAZEBNÉINTERAKCE		
+			Van der Waalsovy síly	např. síly mezi vrstvami grafitu	CH.OACH.VAZBY.SLABÉINTERAKCE.VANDERWAALSOVY		
+			Vodíkové můstky	např. síly mezi molekulami vody, parciální náboj, povrchové napětí kapalin, bod varu kapalin, DNA	CH.OACH.VAZBY.VODÍKOVÉMŮSTKY		DNA - doplním
+			Interakce dopól-dipól	dipól, parciální náboj, interakce ion-dipól, ion-ion, induktivní síly, polarizovatelnost neutrální molekuly, indukce diplólu v neutrální molekule, Londonovy síly, disperzní síly	CH.OACH.VAZBY.DIPÓLDIPÓL		
+			pí-pí interakce	pí-pí stacking			
+	Názvosloví anorganické chemie			přehledy, opakování, názvosloví několika skupin látek, které nejsou od sebe odvozené	CH.OACH.NÁZVOSLOVÍ		
+		Značky a názvy prvků		ze značky na název, z názvu na značku, český název, mezinárodní název	CH.OACH.NÁZVOSLOVÍ.ZNAČKYNAZVY		
+		Triviální názvy anorganických látek		např. vitriol, jedlá soda, vápenec, burel	CH.OACH.NÁZVOSLOVÍ.TRIVIÁLNÍ		
+		Oxidační číslo a náboj v názvosloví, koncovky		oxidační číslo římským číslem, náboj arabským, příslušné koncovky českého názvosloví	CH.OACH.NÁZVOSLOVÍ.OXIDAČNÍČÍSLOKONCOVKY		
+		Předpony násobků		hexa, okta, nona, atd.	CH.OACH.NÁZVOSLOVÍ.PŘEDPONYNÁSOBKŮ		
+		Názvosloví binárních sloučenin		Přehled, opakování princip názvosloví dvouprvkových sloučenin	CH.OACH.NÁZVOSLOVÍ.BINÁRNÍSLOUČENINY		
+			Názvosloví oxidů a sulfidů	ze vzorce na název a z názvu na vzorec - oxidy a sulfidy, zastarale kysličníky a sirníky	CH.OACH.NÁZVOSLOVÍ.BINÁRNÍSLOUČENINY.OXIDYSULFIDY	CH.OACH.NÁZVOSLOVÍ.ZNAČKYNAZVY	
+			Názvosloví halogenidů	ze vzorce na název a z názvu na vzorec - halogenidy	CH.OACH.NÁZVOSLOVÍ.BINÁRNÍSLOUČENINY.HALOGENIDY		
+			Názvosloví hydridů	ze vzorce na název a z názvu na vzorec - hydridy, kovalentní a iontové hydridy a jiné oxidační číslo vodíku	CH.OACH.NÁZVOSLOVÍ.BINÁRNÍSLOUČENINY.HYDRIDY		
+			Názvosloví peroxidů	ze vzorce na název a z názvu na vzorec - peroxidy a jak si je nesplést s oxidy	CH.OACH.NÁZVOSLOVÍ.BINÁRNÍSLOUČENINY.PEROXIDY		
+			Názvosloví hyperoxidů, ozonidů, hydrogenperoxidů	ze vzorce na název a z názvu na vzorec - hyperoxidy, ozonidy a hydrogenperoxidy	CH.OACH.NÁZVOSLOVÍ.BINÁRNÍSLOUČENINY.HYPEROXIDYOZONIDYHYDROGENPEROXIDY		
+		Názvosloví hydroxidů		ze vzorce na název a z názvu na vzorec - hydroxidy	CH.OACH.NÁZVOSLOVÍ.HYDROXIDY		
+		Názvosloví boridů, acetylidů, imidů, fosfidů		ze vzorce na název a z názvu na vzorec - boridy, acetylidy, imidy, fosfidy	CH.OACH.NÁZVOSLOVÍ.BORIDYACETYLIDYIMIDYFOSFIDY		
+		Názvosloví anorganických kyselin		ze vzorce na název a z názvu na vzorec - anorganické kyseliny	CH.OACH.NÁZVOSLOVÍ.KYSELINY		
+			Názvosloví bezkyslíkatých kyselin	ze vzorce na název a z názvu na vzorec - bezkyslíkaté kyseliny	CH.OACH.NÁZVOSLOVÍ.KYSELINY.BEZKYSLÍKATÉ		
+			Názvosloví kyslíkatých kyselin	ze vzorce na název a z názvu na vzorec - kyslíkaté kyseliny	CH.OACH.NÁZVOSLOVÍ.KYSELINY.KYSLÍKATÉ		
+			Názvosloví polykyselin, peroxokyselin, thiokyselin a dalších	ze vzorce na název a z názvu na vzorec - polykyseliny, peroxokyseliny, thiokyseliny	CH.OACH.NÁZVOSLOVÍ.KYSELINY.POLYPEROXOTHIO		
+		Názvosloví solí		ze vzorce na název a z názvu na vzorec - soli	CH.OACH.NÁZVOSLOVÍ.SOLÍ	CH.OACH.NÁZVOSLOVÍ.KYSELINY	
+			Názvosloví solí bezkyslíkatých kyselin	ze vzorce na název a z názvu na vzorec - soli bezkyslíkatých kyselin	CH.OACH.NÁZVOSLOVÍ.SOLI.BEZKYSLÍKATÝCHKYSELIN		
+			Názvosloví solí kyslíkatých kyselin	ze vzorce na název a z názvu na vzorec - soli kyslíkatých	CH.OACH.NÁZVOSLOVÍ.SOLI.KYSLÍKATÝCHKYSELIN		
+			Názvosloví hydrogensolí	ze vzorce na název a z názvu na vzorec - hydrogensoli	CH.OACH.NÁZVOSLOVÍ.SOLÍ.HYDROGENSOLÍ		
+			Názvosloví hydrátů solí	ze vzorce na název a z názvu na vzorec - hydráty solí	CH.OACH.NÁZVOSLOVÍ.SOLÍ.HYDRÁTŮSOLÍ		
+			Názvosloví thiosolí, podvojných solí, smíšených solí	ze vzorce na název a z názvu na vzorec - thiosoli, podvojné soli, smíšené soli, kamence	CH.OACH.NÁZVOSLOVÍ.SOLÍ.THIOSOLIPODVOJNÉSOLISMÍŠENÉ		
+		Názvosloví komplexních sloučenin		ze vzorce na název a z názvu na vzorec - komplexní sloučeniny, ligandy, centrální atom	CH.OACH.NÁZVOSLOVÍ.KOMPLEXNÍSLOUČENINY	CH.OACH.NÁZVOSLOVÍ.PŘEDPONYNÁSOBKŮ	
+	Prvky			vlastnosti prvků a jejich skupiny, dělení prvků na kovy, nekovy a polokovy	CH.OACH.PRVKY		
+		Nekovy		vlastnosti nekovů, významné nekovy	CH.OACH.PRVKY.NEKOVY		
+			Vodík	vlastnosti vodíku	CH.OACH.PRVKY.NEKOVY.VODÍK		
+			Kyslík	vlastnosti kyslíku	CH.OACH.PRVKY.NEKOVY.KYSLÍK		
+			Prvky 16. skupiny	síra, selen, tellur, dříve VI.A skupina, chalkogeny, p4-prvky	CH.OACH.PRVKY.NEKOVY.16SKUPINA		
+			Prvky 15. skupiny	dusík, fosfor, dříve V.A skupina, p3-prvky	CH.OACH.PRVKY.NEKOVY.15SKUPINA		
+			Vzácné plyny	18. skupina, dříve IV.A skupina, helium, neon, argo, krypton, xenon, radon	CH.OACH.PRVKY.NEKOVY.VZÁCNÉPLYNY		
+			Halogeny	chlor, fluor, brom, jod, 17. skupina, dříve VII.A skupina, halogeny	CH.OACH.PRVKY.NEKOVY.HALOGENY		
+			Uhlík	výskyt, formy, alotropické modifikace,vazebné poměry v alotropických modifikacích, vlastnosti	CH.OACH.PRVKY.NEKOVY.UHLÍK		
+		Polokovy		významné polokovy, vlastnosti polokovů	CH.OACH.PRVKY.POLOKOVY		
+			Křemík	vlastnosti a využití křemíku	CH.OACH.PRVKY.POLOKOVY.KŘEMÍK		
+		Kovy		kovy, kovové vlastnosti	CH.OACH.PRVKY.KOVY		
+			Alkalické kovy	lithium, sodík, draslík, nejdůležitější alkalické kovy, vlastnosti, reaktivita, 1. skupina, s1-prvky	CH.OACH.PRVKY.KOVY.ALKALICKÉ		
+			Lithium	alkalický kov - zástupce	CH.OACH.PRVKY.KOVY.LITHIUM		
+			Draslík	alkalický kov - zástupce	CH.OACH.PRVKY.KOVY.DRASLÍK		
+			Kovy alkalických zemin, berylium a hořčík	2. skupina, s2-prvky	CH.OACH.PRVKY.KOVY.ALKALICKÝCHZEMIN		
+			Hliník	vlastnosti a využití hliníku	CH.OACH.PRVKY.KOVY.HLINÍK		
+			Přechodné kovy	d-prvky	CH.OACH.PRVKY.KOVY.PŘECHODNÉ		
+			Železo	vlastnosti, výroba, použití železa	CH.OACH.PRVKY.KOVY.ŽELEZO		
+			Měď	vlastnosti, použití mědi	CH.OACH.PRVKY.KOVY.MĚĎ		
+			Zinek	vlastnosti a použití zinku	CH.OACH.PRVKY.KOVY.ZINEK		
+			Zlato	vlastnosti a použití zlata	CH.OACH.PRVKY.KOVY.ZLATO		
+			Stříbro	vlastnosti a použití stříbra	CH.OACH.PRVKY.KOVY.STŘÍBRO		
+			Titan	vlastnosti a použití titanu	CH.OACH.PRVKY.KOVY.TITAN		
+			Vnitřně přechodné kovy	f-prvky	CH.OACH.PRVKY.KOVY.VNITŘNĚPŘECHODNÉ		
+			Uran	vnitřně přechodný kov, f-prvek, jaderné palivo, 235, 238, izotop, obohacení, ochuzení	CH.OACH.PRVKY.KOVY.URAN		
+		Skupiny v PSP		skupiny, o kterých se běžně vyučuje a které nespadají jenoduše do kovů, nekovů a polokovů	CH.OACH.PRVKY.SKUPINYPSP		
+			Skupina boru (13. skupina)	bor, triely, hliník, 13. skupina, dříve III.A skupina	CH.OACH.PRVKY.SKUPINYPSP.SKUPINABORU		
+			Skupina uhlíku (14. skupina)	tetrely, uhlík, křemík, 14. skupina, dříve IV.A skupina	CH.OACH.PRVKY.SKUPINYPSP.SKUPINAUHLÍKU		
+			Skupina fosforu (15. skupina)	pentely, dusík, fosfor, 15. skupina, dříve V.A skupina	CH.OACH.PRVKY.SKUPINYPSP.SKUPINAFOSFORU		
+			Skupina kyslíku (16. skupina)	chalkogeny, kyslík, síra, 16. skupina, dříve VI.A skupina	CH.OACH.PRVKY.SKUPINYPSP.SKUPINAKYSLÍKU		
+		Hmotnostní zlomek prvku ve sloučenině		hmotnostní procento, zastoupení prvku	CH.OACH.SLOUČENINY.HMOTNOSTNÍZLOMEKPRVKU		
+	Dvouprvkové sloučeniny			binární sloučeniny	CH.OACH.DVOUPRVKOVÉSLOUČENINY		
+		Oxidy a sulfidy		dříve kysličníky a sirníky	CH.OACH.DVOUPRVKOVÉSLOUČENINY.OXIDYASULFIDY		
+			Významné oxidy a sulfidy	oxid uhličitý, oxid křemičitý, oxidy dusíku, oxid siřičitý, oxid hlinitý, pyrit, galenit, sfalerit	CH.OACH.DVOUPRVKOVÉSLOUČENINY.OXIDYASULFIDY.VÝZNAMNÉ		
+		Halogenidy		solitvorné prvky	CH.OACH.DVOUPRVKOVÉSLOUČENINY.HALOGENIDY		
+			Významné halogenidy	chlorid sodný, sůl kamenná, halit, bromid stříbrný	CH.OACH.DVOUPRVKOVÉSLOUČENINY.HALOGENIDY.VÝZNAMNÉ		
+		Hydridy		sloučeniny vodíku s jiným prvkem, kovalentní hydridy, iontové hydridy, kovové hydridy	CH.OACH.DVOUPRVKOVÉSLOUČENINY.HYDRIDY		
+			významné hydridy	selan, telan, boran, fosfan atd., jiný název vody by mohl být oxan, hydrid sodný a vápenatý (pro organickou syntézu)	CH.OACH.DVOUPRVKOVÉSLOUČENINY.HYDRIDY.VÝZNAMNÉ		CH.OACH.KYSELINYZÁSADYSOLI.KYSELINY.BEZKYSLÍKATÉ, CH.OACH.KYSELINYZÁSADYSOLI.ZÁSADY.AMONIAK
+		Další dvouprvkové sloučeniny		karbidy, selenidy, teluridy, peroxidy, superoxidy, nitridy, azidy	CH.OACH.DVOUPRVKOVÉSLOUČENINY.DALŠÍ		
+	Anorganické kyseliny, zásady a soli			tříprvkové sloučeniny, bezkyslíkaté kyseliny, amoniak, Lewisovy kyseliny a báze, Bronstedovy kyseliny a báze	CH.OACH.KYSELINYZÁSADYSOLI		CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY
+		Kyselinotvorné, zásadotvorné, amfortení (neutrální) a inertní oxidy 		Reakce oxidů s vodou, reakce amfoterních oxidů s kyselinami a bázemi, vazba iontová a kovalentní a acidobazické chování oxidů	CH.OACH.KYSELINYZÁSADYSOLI.KYSELINOZÁSADOTVORNÉOXIDY		
+		Anorganické hydridy (kovalentní, iontové)		přehled hydridů a jejich acidobazických vlastností, zásadité iontové hydridy, kyselé kovaltní hydridy, neutrální hydridy, hydridy kovové, porovnání s oxidy (iontové a kovalentní oxidy)			
+		Anorganické kyseliny		kyseliny, Bronstedovy kyseliny, minerální kyseliny	CH.OACH.KYSELINYZÁSADYSOLI.KYSELINY		CH.OACH.ACIDOBAZICKÉDĚJE
+			Významné (ekonomicky) anorganické kyseliny	výroba a použití kyselin sírové, chlorovodíkové, dusičné	CH.OACH.KYSELINYZÁSADYSOLIKYSELINY.VÝZNAMNÉ		
+			Bezkyslíkaté kyseliny 	Bronstedovy bezkyslíkaté kyseliny 	CH.OACH.KYSELINYZÁSADYSOLI.KYSELINY.BEZKYSLÍKATÉ		
+			Reakce bezkyslíkatých kyselin	vznik, oxidace, vytěsnění, neutralizace	CH.OACH.KYSELINYZÁSADYSOLI.KYSELINY.BEZKYSLÍKATÉ.REAKCE		CH.OACH.KYSELINYZÁSADYSOLI.SOLI.VZNIKSOLÍ
+			Kyslíkaté kyseliny 	Bronstedovy kyslíkaté kyseliny 	CH.OACH.KYSELINYZÁSADYSOLI.KYSELINY.KYSLÍKATÉ		
+			Reakce kyslíkatých kyselin	vznik, oxidace, vytěsnění, neutralizace, oxidační vlastnosti	CH.OACH.KYSELINYZÁSADYSOLI.KYSELINY.KYSLÍKATÉ.REAKCE	CH.OACH.KYSELINYZÁSADYSOLI.KYSELINOZÁSADOTVORNÉOXIDY	CH.OACH.KYSELINYZÁSADYSOLI.SOLI.VZNIKSOLÍ
+			Polykyseliny, peroxokyseliny, thiokyseliny	méně známé kyseliny, H2SO5 není vtip	CH.OACH.KYSELINYZÁSADYSOLI.KYSELINY.KYSLÍKATÉ.POLYPEROXOTHIO		
+		Zásady		Bronstedovy zásady	CH.OACH.KYSELINYZÁSADYSOLI.ZÁSADY		
+			Hydroxidy	hydroxidy, louhy	CH.OACH.KYSELINYZÁSADYSOLI.ZÁSADY.HYDROXIDY		
+			Amoniak	čpavek, zásaditost, vznik amonného kationtu, reakce amoniaku, kovalentní hydrid	CH.OACH.KYSELINYZÁSADYSOLI.ZÁSADY.AMONIAK		kovaletní hydridy
+			Reakce hydroxidů	disociace, vznik, hydrolýza, dehydratace, neutralizace	CH.OACH.KYSELINYZÁSADYSOLI.ZÁSADY.REAKCE	CH.OACH.KYSELINYZÁSADYSOLI.KYSELINOZÁSADOTVORNÉOXIDY	CH.OACH.KYSELINYZÁSADYSOLI.SOLI.VZNIKSOLÍ
+			Významné zásady	hydroxid vápenatý (hašené vápno), hydroxid amonný, hydroxid sodný, hydroxid draselný a jejich vlastnosti a využití	CH.OACH.KYSELINYZÁSADYSOLI.ZÁSADY.VÝZNAMNÉ		
+		Soli		látky skládající se z kationtů a aniontů, krystaly solí, roztoky solí, tavenina solí	CH.OACH.KYSELINYZÁSADYSOLI.SOLI		
+			Významné soli	sůl kamenná, vápenec a další	CH.OACH.KYSELINYZÁSADYSOLI.SOLI.VÝZNAMNÉ		
+		Vznik solí		přehled sedmi způsobů vzniku solí	CH.OACH.KYSELINYZÁSADYSOLI.SOLI.VZNIKSOLÍ		
+			Vznik soli neutralizací	reakcí kyseliny a zásady vzniká sůl a voda	CH.OACH.KYSELINYZÁSADYSOLI.VZNIKSOLÍ.NEUTRALIZACÍ		
+			Vznik soli reakcí oxidů	reakcí kyselinotvorného oxidu a zásadotvorného oxidu vzniká sůl, reakcí kyselinotvorného oxidu a hydroxidu vzniká sůl a voda, a co vzniká reakcí zásadotvorného oxidu a kyseliny? Reakce kyselinotvorného a zásadotvorného oxidu	CH.OACH.KYSELINYZÁSADYSOLI.VZNIKSOLÍ.REAKCÍOXIDŮ	CH.OACH.KYSELINYZÁSADYSOLI.KYSELINOZÁSADOTVORNÉOXIDY	
+	Komplexní sloučeniny			komplexní sloučeniny, koordinační sloučeniny, ligand, centrální atom, vakatní orbital, Lewisova kyselina, Lewisova báze, donor-akceptorová vazba, koordinačně-kovalentní vazba	CH.OACH.KOMPLEXNÍSLOUČENINY		
+	Chemické reakce			reaktanty, produkty, výchozí látky, reakce, základ, adukty, edukty	CH.OACH.CHEMICKÉREAKCE		
+		Zápis chemické reakce		reakční schéma (nemusí být vyčíslené), rovnice (musí se vyčíslit), jednosměrná šipka, obousměrná šipka, stechiometrické koeficienty, skupenské stavy látek ve schématu nebo rovnici, iontová rovnice	CH.OACH.CHEMICKÉREAKCE.ZÁPIS		
+		Zákon zachování hmotnosti		M.V. Lomonosov a A. L. Laviosier, součet hmotností reaktantů se rovná součtu hmotností produktů, atomy v reakci nevznikají a nezanikají, přeskupují se	CH.OACH.CHEMICKÉREAKCE.ZÁKONZACHOVÁNÍHMOTNOSTI		
+			Vyčíslování chemických rovnic	počet atomů jednotlivých prvků se na obou stranách rovnice musí rovnat, iontová rovnice, součet nábojů iontů na pravé a levé straně rovnice se musí rovnat	CH.OACH.CHEMICKÉREAKCE.ZÁKONZACHOVÁNÍHMOTNOSTI.VYČÍSLOVÁNÍROVNIC		
+			Vyčíslování metodou substituce	substituce při vyčíslování, efektivní vyčíslování rovnic, u dějů bez redoxní změny	CH.OACH.CHEMICKÉREAKCE.ZÁKONZACHOVÁNÍHMOTNOSTI.VYČÍSLOVÁNÍSUBSTITUCÍ		
+			Výpočty z chemických rovnic	molární koncentrace, látkové množství, stechiometrie	CH.OACH.CHEMICKÉREAKCE.ZÁKONZACHOVÁNÍHMOTNOSTI.VÝPOČTYZROVNIC		
+			Přebytek a klíčová složka	výpočty s přebytkem, určování klíčové složky	CH.OACH.CHEMICKÉREAKCE.ZÁKONZACHOVÁNÍHMOTNOSTI.PŘEBYTEKLÍČOVÁSLOŽKA		
+			Stupeň konverze, výtěžek, účinnost, ztráty při reakci	výpočty s částečnou konverzí, výtěžkem, účinností, výpočet ztrát při reakci	CH.OACH.CHEMICKÉREAKCE.ZÁKONZACHOVÁNÍHMOTNOSTI.STUPEŇKONVERZE		
+		Typy chemických reakcí		třídění chemických reakcí	CH.OACH.CHEMICKÉREAKCE.TYPY		
+			Reakce bez redox změny a s redox změnou	polorekce, oxidace, redukce			
+			Homogenní a heterogenní reakce	homogení a heterogenní, 	CH.OACH.CHEMICKÉREAKCE.TYPY.HOMOGENÍHETEROGENNÍ		
+			Substituce, adice, eliminace, přesmyk	třídění chemických reakcí z hlediska přeskupování atomů	CH.OACH.CHEMICKÉREAKCE.TYPY.SUBSTITUCEADICEELIMINACEPŘESMYK		
+			Reakce izolované a současné (simultánní)	třídění reakcí z hlediska průběhu	CH.OACH.CHEMICKÉREAKCE.TYPY.IZOLOVANÉSIMULTÁNNÍ		
+	Acidobazické děje			rovnováhy a reakce kyselin a zásad	CH.OACH.ACIDOBAZICKÉDĚJE		
+		Protolytické rovnováhy		rovnováhy s přenosem protonu	CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY		
+			Arrheniova teorie	teorie kyselin a zásad, vodíkový kation, hydroxidový anion	CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY.ARRHENIOVATEORIE		
+			Brønstedova a Lowryho teorie	teorie kyselin a zásad, vodíkový kation, oxoniový kation, přenos protonu	CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY.BRONSTEDOVALOWRYHOTEORIE		
+			Lewisova teorie	teorie kyselin a zásad, akceptor a donor elektronového páru	CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY.LEWISOVATEORIE		
+			Disociace kyselin a zásad	disociační konstanta Ka a pKa, báze, Kb a pKb	CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY.DISOCIACEKYSELINAZASAD		
+			Konjugované kyseliny a zásady	částice lišící se o proton, před a po přenosu protonu, porovnávání síly kyseliny a báze v konjugovaném páru	CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY.KONJUGOVANÉKYYSELINYABÁZE		
+			Disociační stupeň	vícesytné kyseliny mohou odštěpovat protony postupně	CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY.DISOCIAČNÍSTUPEŇ		
+			Disociace vody a pH	iontový součin vody	CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY.DISOCIACEVODYPH		
+			Výpočet pH roztoků silných kyselin a zásad	vztah mezi koncentrací silných kyselin a zásad a jejich pH, význam iontového součinu vody, úplná disociace, Kv (také Kw)	CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY.PHROZTOKŮSILNÝCH		
+			Výpočet pH roztoků slabých kyselin a zásad	vztah mezi koncentrací silných kyselin a zásad, disociační konstantou a jejich pH, význam iontového součinu vody, částečná disociace	CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY.PHROZTOKŮSLABÝCH		
+			Výpočet pH roztoků solí	pH roztoku soli slabé zásady a silné kyseliny a soli silé zásady a slabé kyseliny, pH roztoku silné zásady a silé kyseliny a pH roztoku slaé zásady a slabé kyseliny	CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY.PHROZTOKŮSOLÍ		
+			Pufry	definice a význam pufrů, mechanismus účiku	CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY.PUFRY		
+			Výpočet pH pufrů	pufry a výpočet jejich pH	CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY.PHPUFRŮ		
+			Příprava pufrů, pufrační kapacita	složení pufrů, kapacita pufru	CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY.PŘÍPRAVAKAPACITAPUFRŮ		
+			Neutralizace a hydrolýza solí	soli a jejich hydrolýza, neutralizační reakce, ionty	CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY.NEUTRALIZACEAHYDROLÝZA		
+			Jak rozpoznat slabé a silné kyslíkaté anorganické kyseliny	"velmi slabé kyseliny mají obecný vzorec HnXOn, velmi silné kyseliny mají obecný vzorec HnXOn+3, atd., silné, slabé, anorganické kyseliny, terminální (koncové) atomy kyslíku, elktronegativita a oxidační stupeň centrálního atomu, indukční efekt
+"	CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY.SLABÉASILNÉANORGANICKÉKYSELINY		
+			Síla bezkyslíkatých kyselin	porovnání síly bezkyslíkatých kyselin, alektronegavita a délak vazby, polaziční schopnosti atomů	CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY.SÍLA BEZKYSLÍKATÝCHKYSELIN		
+			Měření pH, indikátory	druhy indikátorů, barevné změny, fenolftalein, univerzální indikátorové papírky, lakmus, pH-metr, anthokyany	CH.OACH.ACIDOBAZICKÉDĚJE.PROTOLYTICKÉROVNOVÁHY.MĚŘENÍPH		včetně dětských pokusů s anthokyany, CH.ANALCH.TITRACE.ACIDOBAZICKÉ
+	Redoxní děje			přenos elektronů, oxidace, redukce	CH.OACH.REDOX		
+		Oxidačně-redukční (redoxní) rovnováhy			CH.OACH.REDOX.ROVNOVÁHY		
+			Oxidační a redukční vlastnosti látek	oxidační a redukční činidla	CH.OACH.REDOX.ROVNOVÁHY.REDOXNÍVLASTNOSTILÁTEK		
+			Standardní elektrodový potenciál	vyredukování vodíku z bezkyslíkatých neoxidujících kyselin, zápis reakce v redukčním módu, i voda je neoxidující kyselina	CH.OACH.REDOX.ROVNOVÁHY.STANDARDNÍELEKTRODOVÝPOTENCIÁL		
+			Beketovova řada kovů	ušlechtilé a neušlechtilé kovy, kladný a záporný standardní redukční potenciál, dobrá redukční činidla	CH.OACH.REDOX.ROVNOVÁHY.BEKETOVOVAŘADAKOVŮ		
+			Typy elektrod	katoda, anoda	CH.OACH.REDOX.ROVNOVÁHY.TYPYELEKTROD		článek
+		Změny oxidačního čísla		přesun elektronu, oxidace, redukce	CH.OACH.REDOX.ZMĚNYOXIDAČNÍHOČÍSLA		
+		Zápis poloreakcí - oxidace a redukce a vyčíslování			CH.OACH.REDOX.POLOREAKCEVYČÍSLOVÁNÍ		
+			Disproporcionace, synproporcionace		CH.OACH.REDOX.OXIDACEAREDUKCE.DISPROPORCIONAČNÍSYNPROPORCIONAČNÍ		
+		Významné redoxní reakce			CH.OACH.REDOX.VÝZNAMNÉ		
+			Hoření, paliva		CH.OACH.REDOX.VÝZNAMNÉ.HOŘENÍ		
+			Elektrolýza	elektrolyt, vodič, izolant, rozklad elektickým proudem	CH.OACH.REDOX.VÝZNAMNÉ.ELEKTROLÝZA		
+			Galvanické články	Voltův článek, akumulátor	CH.OACH.REDOX.VÝZNAMNÉ.GALVANICKÝČLÁNEK		
+			Koroze	co se děje při korozi, ochrana kovů před korozí pokovováním ušlechtilejším kovem	CH.OACH.REDOXNÍ.VÝZNAMNÉ.KOROZE		
+Fyzikální chemie					CH.FCH.		
+	Vlastnosti látek			V chemii používané fyzikálně-chemické veličiny a fyzikální veličiny, jednotky, hustota, bod varu, bod tání,VÝPOČTY, PŘEVODY JEDNOTEK, PŘESAH DO FYZIKY, FYZIKÁLNÍ CHEMIE	CH.FCH.VLASTNOSTILÁTEK		
+	Chemické a fyzikální děje			vznik nových látek, změna vlastností, změna stavu, změna skupenství	CH.FCH.CHEMICKÉAFYZIKALNÍDĚJE		
+		Difúze		koncentrační spád, osmóza	CH.FCH.CHEMICKÉAFYZIKALNÍDĚJE.DIFÚZE		
+	Termodynamické systémy				CH.FCH.TERMODYNAMICKÉSYSTÉMY		
+		Systémy uzavřené, otevřené, adiabatické, izolované			CH.FCH.TERMODYNAMICKÉSYSTÉMY.UZAVŘENÉOTEVŘENÉADIABATICKÉIZOLOVANÉ		
+		Látkové (molární) množství		Avogadrova konstanta	CH.FCH.TERMODYNAMICKÉSYSTÉMY.LÁTKOVÉMNOŽSTVÍ		
+			Molární hmotnost		CH.FCH.TERMODYNAMICKÉSYSTÉMY.LÁTKOVÉMNOŽSTVÍ.MOLÁRNÍHMOTNOST		
+			Relativní atomová a relativní molekulová hmotnost		CH.FCH.TERMODYNAMICKÉSYSTÉMY.LÁTKOVÉMNOŽSTVÍ.RELATIVNÍATOMOVÁ		
+			Výpočty s látkovým množstvím		CH.FCH.TERMODYNAMICKÉSYSTÉMY.LÁTKOVÉMNOŽSTVÍ.VÝPOČTY		
+			Ideální plyn	chování a vlastnosti ideálního plynu, stavová rovnice ideálního plynu, parciální tlak	CH.FCH.TERMODYNAMICKÉSYSTÉMY.LÁTKOVÉMNOŽSTVÍ.IDEÁLNÍPLYN		
+			Molární plynová konstanta	objem jednoho molu ideálního plynu, univerzální plynová konstanta	CH.FCH.TERMODYNAMICKÉSYSTÉMY.LÁTKOVÉMNOŽSTVÍ.VÝPOČTY.MOLÁRNÍPLYNOVÁ		
+			Reálný plyn	vlastnosti a chování reálného plynu, neplatnost stavové rovnice ideálního plynu	CH.FCH.TERMODYNAMICKÉSYSTÉMY.LÁTKOVÉMNOŽSTVÍ.REÁLNÝPLYN		
+	Směsi				CH.FCH.SMĚSI		
+		Homogenní směsi		plyny, roztoky, idelální roztok	CH.FCH.SMĚSI.HOMOGENNÍ		
+		Heterogenní směsi			CH.FCH.SMĚSI.HETEROGENNÍ		
+		Rozpustnost		rozpoužtědlo, solvatace, hydratace, rodíl mezi hydratací a hydrolýzou nebo sovatací a solvolýzou	CH.FCH.SMĚSI.ROZPUSTNOST		
+		Koloidní směsi		emulze, aerosol, pěna, suspenze, micely	CH.FCH.SMĚSI.KOLOIDNÍ		
+		Dělení směsí		separační operace	CH.FCH.SMĚSI.DĚLENÍ		
+			Usazování	dekantace, usazování neorzpustné složkyve směsi pevná látka - kapalina, sraženina	CH.FCH.SMĚSI.DĚLENÍ.USAZOVÁNÍ		
+			Filtrace	volná a podtlaková filtrace, oddělní pevné složky od rozpouštědla, kapaliny	CH.FCH.SMĚSI.DĚLENÍ.FILTRACE		
+			Extrakce	vytřepávání, rozpustnost složek v rozdílných navzájem nemísících se rozpouštědlech, přechod složky do rozpouštědla na základě polarity či lifility, rozdělovací koeficient	CH.FCH.SMĚSI.DĚLENÍ.EXTRAKCE		
+			Destilace a rektifikace	rovnováha kapalina - plyn, bod varu	CH.FCH.SMĚSI.DĚLENÍ.DESTILACE		
+			Sublimace	rovnováha pevná látka - plyn, sublimace vody v mrazech z ledu	CH.FCH.SMĚSI.DĚLENÍ.SUBLIMACE		
+			Chromatografie	plynová, kapalinová chromatografie, chromatografie na tenké vrstvě	CH.FCH.SMĚSI.DĚLENÍ.CHROMATOGRAFIE		
+			Krystalizace	volná a rušená krystalizace, rozpustnost látky v rozpouštědle při různých teplotách, separační a čistící operace	CH.FCH.SMĚSI.DĚLENÍ.KRYSTALIZACE		
+		Vyjadřování složení směsí			CH.FCH.SMĚSI.SLOŽENÍ		
+			Hmotnostní zlomek a procento	porovnání s výpočtem pro jeden mol, tedy ze vzorce (hydráty, složení molekuly či suroviny)	CH.FCH.SMĚSI.SLOŽENÍ.HMOTNOSTNÍZLOMEK		
+			Směšovací rovnice	zákon zachování hmotnosti, hmotnostní bilance pro určitou složku	CH.FCH.SMĚSI.SLOŽENÍ.SMĚŠOVACÍROVNICE		
+			Ředění	solvatace, změna koncetrace s přídavkem rozpouštědla	CH.FCH.SMĚSI.SLOŽENÍ.ŘEDĚNÍ		
+			Křížové pravidlo pro směšovací rovnici	výpočet ředění 	CH.FCH.SMĚSI.SLOŽENÍ.KŘÍŽOVÉPRAVIDLOSMĚŠOVACÍ		
+			Objemový zlomek a procento	záchon zachování hmotnosti nikoliv objemu, složení lihovin a destilátů	CH.FCH.SMĚSI.SLOŽENÍ.OBJEMOVÝZLOMEK		
+			Molární zlomek a procento		CH.FCH.SMĚSI.SLOŽENÍ.MOLÁRNÍZLOMEK		
+			Molární (látková) koncentrace (molarita)	definice molární koncentrace a její uplatnění ve výpočtech a také starší veličina molalita	CH.FCH.SMĚSI.SLOŽENÍ.MOLÁRNÍKONCENTRACE		
+			Hmotnostní koncentrace	jednotka g/ml, g/l, kg/l	CH.FCH.SMĚSI.SLOŽENÍ.HMOTNOSTNÍKONCENTRACE		
+			Molalita	starší veličina	CH.FCH.SMĚSI.SLOŽENÍ.MOLALITA		
+			Parciální tlak v plynu	Daltonův zákon, ideální plyn	CH.FCH.SMĚSI.SLOŽENÍ.PARCIÁLNÍTLAK		
+	Fázové rovnováhy				CH.FCH.FÁZOVÉROVNOVÁHY		
+		Tlak nasycených par			CH.FCH.FÁZOVÉROVNOVÁHY.TLAKNASYCENÝCHPAR		
+		Henryho zákon			CH.FCH.FÁZOVÉROVNOVÁHY.HENRYHOZÁKON		
+	Termodynamika				CH.FCH.TERMODYNAMIKA		
+		První termodynamický zákon, vnitřní energie			CH.FCH.TERMODYNAMIKA.PRVNÍZÁKON		
+		Práce, teplo			CH.FCH.TERMODYNAMIKA.PRÁCETEPLO		
+		Entalpie			CH.FCH.TERMODYNAMIKA.ENTALPIE		
+		Druhý termodynamický zákon, entropie			CH.FCH.TERMODYNAMIKA.DRUHÝZÁKONENTROPIE		
+		Entropie a průběh některých dějů			CH.FCH.TERMODYNAMIKA.ENTROPIEPRŮBĚHDĚJŮ		
+		Entropie, pravděpodobnost a uspořádanost soustavy			CH.FCH.TERMODYNAMIKA.ENTROPIEPRAVDĚPODOBNOSTUSPOŘÁDÁNÍ		
+		Gibbsova energie, Helmholtzova energie			CH.FCH.TERMODYNAMIKA.GIBBSOVAENERGIEHELMHOLZOVAENERGIE		
+		Změna Gibbsovy energie pro některé typy reakcí			CH.FCH.TERMODYNAMIKA.ZMĚNYGIBBSOVYENERGIE		
+	Termochemie						
+		Reakční teplo		enthalpie	CH.FCH.TERMOCHEMIE.REAKČNÍTEPLO		
+		Reakce exotermické a endotermické			CH.FCH.TERMOCHEMIE.ENDOEXOTERMICKÉ		
+		Termochemické zákony			CH.FCH.TERMOCHEMIE.ZÁKONY		
+		Teplo slučovací a spalné			CH.FCH.TERMOCHEMIE.TEPLOSLUČOVACÍSPALNÉ		
+		Výpočty reakčního tepla			CH.FCH.TERMOCHEMIE.VÝPOČTYREAKČNÍHOTEPLA		
+	Chemická kinetika				CH.FCH.KINETIKA		
+		Reakční rychlost		sledování rychlosti reakce, okamžitá a rovnovážná koncetrace	CH.FCH.KINETIKA.RYCHLOST		
+		Kinetická (rychlostní) rovnice chemické reakce		řád reakce, reakční řád, reakce nultého řádu, reakce prvního řádu, reakce druhého řádu	CH.FCH.KINETIKA.KINETICKÁROVNICE		
+			Poločas reakce		CH.FCH.KINETIKA.KINETICKÁROVNICE.POLOČAS		
+		Závislost reakční rychlosti na teplotě		Arrheniova rovnice, aktivační energie, srážková teorie	CH.FCH.KINETIKA.ZÁVISLOSTRYCHLOSTINATEPLOTĚ		
+		Srážková teorie reakční rychlosti			CH.FCH.KINETIKA.SRÁŽKOVÁTEORIE		
+		Teorie aktivovaného komplexu			CH.FCH.KINETIKA.TEORIEAKTIVOVANÉHOKOMPLEXU		
+		Katalýza			CH.FCH.KINETIKA.KATALÝZA		
+			Katalyzátory a inhibitory		CH.FCH.KINETIKA.KATALÝZA.KATALYZÁTORYAINHIBITORY		
+		Reakční mechanismus			CH.FCH.KINETIKA.REAKČNÍMECHANISMUS		
+	Chemické rovnováhy				CH.FCH.ROVNOVÁHY		
+		Guldbergův a Waageův zákon chemické rovnováhy			CH.FCH.ROVNOVÁHY.GULDBERGŮVWAAGEŮVZÁKON		
+			Rovnovážná konstanta	rovnovážná koncentrace	CH.FCH.ROVNOVÁHY.GULDBERGŮVWAAGEŮVZÁKON.ROVNOVÁŽNÁKONSTANTA		
+		Chemická rovnováha složených soustav			CH.FCH.ROVNOVÁHY.SLOŽENÝCH SOUSTAV		
+		Chemická rovnováha v heterogenní soustavě			CH.FCH.ROVNOVÁHY.HETEROGENNÍSOUSTAVA		
+		Rovnovážné složení soustavy		Stupeň konverze při dosažení rovnováhy	CH.FCH.ROVNOVÁHY.SLOŽENÍ		CH.OACH.CHEMICKÉREAKCE.ZÁKONZACHOVÁNÍHMOTNOSTI.STUPEŇKONVERZE
+		Princip akce a reakce		Le Chatelierův princip	CH.FCH.ROVNOVÁHY.PRINCIPAKCEAREAKCE		
+			Ovlivňování rovnovážného složení		CH.FCH.ROVNOVÁHY.PRINCIPAKCEAREAKCE.OVLIVNĚNÍROVNOVÁŽNÉHOSLOŽENÍ		
+		Rovnováhy v roztocích elektrolytů (iontové rovnováhy)			CH.FCH.ROVNOVÁHY.IONTOVÉ		
+			Elektrolyt, disociace, ionizace		CH.FCH.ROVNOVÁHY.IONTOVÉ.ELEKTROLYTDISOCIACEIONIZACE		
+		Srážecí rovnováhy			CH.FCH.ROVNOVÁHY.SRÁŽECÍ		
+			Součin rozpustnosti	Ks	CH.FCH.ROVNOVÁHY.SRÁŽECÍ.SOUČINROZPUSTNOSTI		
+Analytická chemie					CH.ANALCH.		
+	Kvalitativní analýza			Ptáme se: co? Důkaz	CH.ANALCH.KVALITA		
+	Kvantitativní analýza			Ptále se: kolik? Stanovení	CH.ANALCH.KVANTITA		
+	Důkazy			indikátor	CH.ANALCH.DŮKAZY		
+		Důkazy aniontů		důkazové reakce, kvalitativní analýza	CH.ANALCH.DŮKAZY.ANIONTY		
+		Důkazy kationtů		důkazové reakce, kvalitativní analýza	CH.ANALCH.DŮKAZY.KATIONTY		
+	Instrumentální analýza				CH.ANALCH.INSTRUMENTÁLNÍANALÝZA		
+		Infračervená spektroskopie		vibrační a rotařní spektra, vlastnosti vazben v molekulách, spektrum, vlnová délka, měkké a tvrdé záření, energie a vlnová délka	CH.ANALCH.INSTRUMENTÁLNÍANALÝZA.INFRAČERVENÁSPEKTROSKOPIE		
+		Spektrofotomerie a UV/VIS spektrometrie a spterofotometrie		Lambert-Beerův zákon. molární absopční koeficient, kyveta, transmitance, absorbance, kalibrace, kalibrační křivka, charakteristické pás, přechody elektronů, Jablonskiho diagram, foton, zážení	CH.ANALCH.INSTRUMENTÁLNÍANALÝZA.SPEKTROFOTOMETRIE		
+		Polarimetrie		optická otáčivost, specifická, rovina polarizovaného světla	CH.ANALCH.INSTRUMENTÁLNÍANALÝZA.POLARIMETRIE		
+		Polarografie		Heyrovský, výška vlny, půlvlnový potenciál, Nobelova cena	CH.ANALCH.INSTRUMENTÁLNÍANALÝZA.POLAROGRAFIE		
+		Nukleární magnetická rezonance		NMR, vhodná jádra, aplikace v medicíně	CH.ANALCH.INSTRUMENTÁLNÍANALÝZA..NUKLEÁRNÍMAGNETICKÁREZONANCE		
+		Plynová chromatografie		GC, mobilní a stacinární fáze, detekce, chromatogram, retenční čas, plocha píku, kvalitativní a kvantitativní analýza	CH.ANALCH.INSTRUMENTÁLNÍANALÝZA.PLYNOVÁCHROMATOGRAFIE		
+		Vysokotlaká kapalinová chromatografie		HPLC, mobilní a stacinární fáze, detekce, chromatogram, retenční čas, plocha píku, kvalitativní a kvantitativní analýza	CH.ANALCH.INSTRUMENTÁLNÍANALÝZA.VYSOKOTLAKÁKAPALINOVÁCHROMATOGRAFIE		
+	Vážková analýza			gravimetrie, spalovací kelímek	CH.ANALCH.GRAVIMETRIE		
+	Odměrná analýza			titrace, základní látka	CH.ANALCH.TITRACE		
+		Titrační křivka, bod ekvivalence		indikátor, stanovovaná látka a titrační činidlo, spotřeba titračního činidla, byreta, odměrná baňka, pipeta	CH.ANALCH.TITRACE.KŘIVKABODEKVIVALENCE		
+		Výpočty		vyčíslení chemické rovnice pro titraci	CH.ANALCH.TITRACE.VÝPOČTY		
+		Acidobazické titrace		trace silné kyseliny, silné zásady, titrace slabé kyseliny, titrační křivka	CH.ANALCH.TITRACE.ACIDOBAZICKÉ		
+		Redoxní titrace			CH.ANALCH.TITRACE.REDOXNÍ		
+		Komplexometrická titrace, chelatometrie		chalaton, ethylendiamintetraocotvá kyselina	CH.ANALCH.TITRACE.KOMPLEXOMETRIE		
+		Srážecí titrace			CH.ANALCH.TITRACE.SRÁŽECÍ		
+Průřezová témata, bezpečnost, udržitelnost, průmysl					CH.PRŮŘEZOVÁTÉMATA		
+	Ochrana člověka při mimořádných situacích			zásady chování při haváriích s kontaminací chemickou látkou	CH.PRŮŘEZOVÁTÉMATA.OCHRANAČLOVEKAPŘI MIMOŘÁDNÝCHSITUACÍCH		
+	Voda na Zemi			mořská voda, pitná voda, minerální voda, destilovaná voda, čištění odpadních vod	CH.PRŮŘEZOVÁTÉMATA.VODA		
+	Vzduch			složení vzduchu, vlastnosti, význam, znečištění vzduchu	CH.PRŮŘEZOVÁTÉMATA.VZDUCH		
+	Neobnovitelné vs obnovitelné zdroje energie				CH.PRŮŘEZOVÁTÉMATA.ZDROJEENERGIE		
+		Fosilní paliva		uhlí, ropa, zemní plyn, krakování	CH.PRŮŘEZOVÁTÉMATA.ZDROJEENERGIE.FOSILNÍ		
+		Jaderná paliva		uran, plutonium, deuterovaná voda	CH.PRŮŘEZOVÁTÉMATA.ZDROJEENERGIE.JADERNÉ		jaderná reakce, štěpná reakce, jaderná chemie
+		Biomasa		co je biomasa, využití	CH.PRŮŘEZOVÁTÉMATA.ZDROJEENERGIE.BIOMASA		
+		Využití solární, vodní, větrné, geotermální a přílivové energie		fotony, transformace světené energie na elektrickou	CH.PRŮŘEZOVÁTÉMATA.ZDROJEENERGIE.SOLÁRNÍVĚTRNÉ		
+	Skladování energie				CH.PRŮŘEZOVÁTÉMATA.SKLADOVÁNÍENERGIE		
+		Články, baterie		technologie, články, baterie, elektřina, akumulátory	CH.PRŮŘEZOVÁTÉMATA.SKLADOVÁNÍENERGIE.BATERIE		
+	Materiály				CH.PRŮŘEZOVÁTÉMATA.MATERIÁLY		
+		Plasty		významné plasty, recyklace	CH.PRŮŘEZOVÁTÉMATA.MATERIÁLY.PLASTY		
+		Elastomery			CH.PRŮŘEZOVÁTÉMATA.MATERIÁLY.ELASTOMERY		
+		Nanomateriály			CH.PRŮŘEZOVÁTÉMATA.MATERIÁLY.NANOMATERIÁLY		
+		Stavební chemie			CH.PRŮŘEZOVÁTÉMATA.MATERIÁLY.STAVEBNÍCHEMIE		
+Organická chemie					CH.OCH		
+	Vymezení organické chemie			organické látky, sloučeniny uhlíku a jejich variabilita, řetězení, násobné vazby	CH.OCH.VYMEZENÍORGANICKÉCHEMIE		
+	Historie organické chemie				CH.OCH.HISTORIEORGANICKÉCHEMIE		
+	Struktura organických látek				CH.OCH.STRUKTURA		
+		Významné prvky v organické chemii		uhlík, kyslík, síra, dusík, hořčík, fosfor, halogeny	CH.OCH.STRUKTURA.PRVKY		
+		Oxidační číslo v organické chemii		možná oxidační čísla ve sloučeninách uhlíku	CH.OCH.STRUKTURA.OXIDAČNÍČÍSLO		
+		Vazby v organické chemii		kovalentní vazba, řetězení, vazba uhlík-uhlík, dvojná, trojná, polární vazba s heteroatomy	CH.OCH.STRUKTURA.VAZBY		
+	Názvosloví organické chemie			Přehled, komplexní opakování, kombinace skupin látek	CH.OCH.NÁZVOSLOVÍ		
+		Triviální názvosloví		Triviální názvy známých organických látek	CH.OCH.NÁZVOSLOVÍ.TRIVIÁLNÍ		
+		Cahn-Ingold-Prelog		pravidla, určování konfigurace absolutní a realtivní	CH.OCH.NÁZVOSLOVÍ.CAHNINGOLDPRELOG		
+		Názvosloví alkanů a cykloalkanů			CH.OCH.NÁZVOSLOVÍ.ALKANŮCYKLOALKANŮ		
+		Názvosloví alkenů, alkynů, alkadienů, cykloalkenů, cykloaldienů			CH.OCH.NÁZVOSLOVÍ.ALKENŮALKADIENŮ		
+			E,Z-izomerie na dvojné vazbě	cis, trans izomerie na dvojné vazbě, realtivní konfigurace	CH.OCH.NÁZVOSLOVÍ.ALKENŮALKADIENŮ.EZIZOMERIE		
+		Názvosloví arenů			CH.OCH.NÁZVOSLOVÍ.ARENŮ		
+			Názvosloví derivátů arenů	deriváty benzenu - názvosloví, číslování, starší značení ortho, meta, para, aromaticita	CH.OCH.NÁZVOSLOVÍ.ARENŮ.DERIVÁTY		
+		Názvosloví halogenderivátů uhlovodíků			CH.OCH.NÁZVOSLOVÍ.HALOGENDERIVÁTŮ		
+		Názvosloví nitro- a aminoderivátů uhlovodíků			CH.OCH.NÁZVOSLOVÍ.NITROAMINODERIVÁTŮ		
+		Názvosloví alkoholů a fenolů		včetně diolů, triolů, atd.	CH.OCH.NÁZVOSLOVÍ.ALKOHOLŮFENOLŮ		
+		Názvosloví aldehydů		karbonylové sloučeniny, karbonyl, karbaldehyd	CH.OCH.NÁZVOSLOVÍ.ALDEHYDŮ		
+		Názvosloví ketonů		karbonylové sloučeniny, karbonyl	CH.OCH.NÁZVOSLOVÍ.KETONŮ		
+		Názvosloví karboxylových kyselin		karboxyl	CH.OCH.NÁZVOSLOVÍ.KABOXYLOVÝCH KYSELIN		
+		Názvosloví heterocyklických sloučenin		aza, oxa, triviální názvy	CH.OCH.NÁZVOSLOVÍ.HETEROCYKLŮ		
+		Zápis struktury molekul v organické chemii			CH.OCH.STRUKTURAMOLEKUL		
+	Alkany a cykloalkany			nasycené uhlovodíky	CH.OCH.ALKANYACYKLOALKANY		
+		Alkany		struktura a vlastnosti, reaktivita, substituce radikálová, mechanismus SR, iniciace, propagace, terminace, halogenace	CH.OCH.ALKANYACYKLOALKANY.ALKANY		
+			Významné alkany a cykloalkany	propan-butanové bomby	CH.OCH.ALKANYACYKLOALKANY.ALKANY.VÝZNAMNÉ		
+			Methan		CH.OCH.ALKANYACYKLOALKANY.ALKANY.METHAN		
+		Cykloalkany		struktura a vlastnosti, reaktivita, substituce radikálová, mechanismus SR, iniciace, propagace, terminace, halogenace	CH.OCH.ALKANYACYKLOALKANY.CYKLOALKANY		
+	Nenasycené uhlovodíky			alkeny, alkadieny, alkyny, areny, přehled	CH.OCH.NENASYCENÉUHLOVODÍKY		
+		Alkeny			CH.OCH.NENASYCENÉUHLOVODÍKY.ALKENY		
+			Reaktivita alkenů	adice, adice elektrofilní, adice radikálová, adice halogenů, vody, halogenovodíků, stereochemie adice, oxidace MnO2 a OsO4, tvroba diolů, cis a trans adice	CH.OCH.NENASYCENÉUHLOVODÍKYALKENY.REAKTIVITA		CH.OCH.REAKCE.ADICE, CH.OCH.REAKCE.POLYMERACE.POLYADICE
+		Alkadieny		konjugované dieny, kumuleny	CH.OCH.NENASYCENÉUHLOVODÍKY.ALKADIENY		
+			Reaktivita alkadienů	adice, adice elektrofilní, adice radikálová, 1,2 a 1,4 adice, kinetický a termodynamický produkt	CH.OCH.NENASYCENÉUHLOVODÍKY.ALKADIENY.REAKTIVITA		
+		Alkyny			CH.OCH.NENASYCENÉUHLOVODÍKY.ALKYNY		
+			Reaktivita alkynů	alkyny jako slabé Bronstedovy kyseliny, adice elektrofilní, radikálová, Birchova redukce, adice vody, Markovnikovo pravidlo	CH.OCH.NENASYCENÉUHLOVODÍKY.ALKYNY.REAKTIVITA		
+		Areny		aromatické uhlovodíky	CH.OCH.NENASYCENÉUHLOVODÍKY.ARENY		
+			Aromaticita	vysvětlen aromatický kruh, benzen není cyklohexatrien, aromatický charakter, Hückelovo pravidlo, benzenové jádro	CH.OCH.NENASYCENÉUHLOVODÍKY.ARENY.AROMATICITA		
+			Reaktivita aromátů	substituce elektrofilní aromatická, katalýza Lewisvou kyselinou, bromace, nitrace, Friedel-Craftzova alkylace a acylace			
+			Významné areny	benzen, toluen, naftalen, fenantren	CH.OCH.NENASYCENÉUHLOVODÍKY.ARENY.VÝZNAMNÉ		
+	Halogenderiváty uhlovodíků				CH.OCH.HALOGENDERIVÁTY		
+		Příprava halogenderivátů		substituce nukleofilní, substituce elektrofilní aromatická, adice halogenů a halogenovodíků na alkeny	CH.OCH.HALOGENDERIVÁTY.PŘÍPRAVA		
+		Významné halogenderiváty uhlovodíků			CH.OCH.HALOGENDERIVÁTY.VÝZNAMNÉ		
+			Freony	CFCs, ozonová díra	CH.OCH.HALOGENDERIVÁTY.VÝZNAMNÉ.FREONY		
+	Organokovové sloučeniny			organokovy, Grignardovo činidlo, reakce s "kyselým" vodíkem (voda, amoniak, acetylen), využití jako nuklofilní činidla	CH.OCH.ORGANOKOVY		
+	Dusíkaté deriváty uhlovodíků			aminoderiváty uhlovodíků, nitroderiváty uhlovodíků, nitrososloučeniny, azosloučeniny, azobarviva	CH.OCH.DUSÍKATÉDERIVÁTY		
+		Aminoderiváty		aminy, primární, sekundární a terciární aminy, reakce aminů s Bronstedovými kyselinami, amoniové soli, pyridin jako amin, Lewisovy báze, nukleofilita	CH.OCH.DUSÍKATÉDERIVÁTY.AMINODERIVÁTY		
+			Významné aminoderiváty uhlovodíků	anilin	CH.OCH.DUSÍKATÉDERIVÁTY.AMINODERIVÁTY.VÝZNAMNÉ		
+		Nitroderiváty		nitrace, nitrační směs, deaktivace aromatického jádra s nitroskupinou	CH.OCH.DUSÍKATÉDERIVÁTY.NITRODERIVÁTY		
+			Významné nitroderiváty uhlovodíků	TNT (trinitrotoluen)	CH.OCH.DUSÍKATÉDERIVÁTY.NITRODERIVÁTY.VÝZNAMNÉ		
+	Alkoholy a fenoly			vlastnosti alkoholů a fenolů, hydroxysloučeniny	CH.OCH.ALKOHOLYFENOLY		
+		Významné alkoholy a fenoly		fenol, dezinfekční činidlo	CH.OCH.ALKOHOLYFENOLY.VÝZNAMNÉ		
+		Reakce alkoholů		příprava alkoholů chemicky, vznik alkoholátů, oxidace na aldehyd a karboxylovou kyselinu a další reakce, acidobazické reakce alkoholů, dehydratace a vznik alkenů	CH.OCH.ALKOHOLYFENOLY.REAKCEALKOHOLŮ		
+		Reakce fenolů		vznik fenolátů a další reakce, konjugace volných elektronů na OH skupině, porovnání kyselosti fenolů a alkoholů	CH.OCH.ALKOHOLYFENOLY.REAKCEFENOLŮ		
+	Ethery			struktura etherů, nasycené a nenysycené ethery, aromatické ethery	CH.OCH.ETHERY		
+		Vlatnosti etherů		fyzikální vlastnosti etherů			
+		Příprava a reakce etherů		syntéza etherů, štěpení etherů			
+		Významné ethery		diethylether, medicinální využití halogenovaných etherů, enfluran			
+	Aldehydy a ketony			karbonylové sloučeniny, karbonyl	CH.OCH.ALDEHYDYKETONY		
+		Reakce aldehydů a ketonů			CH.OCH.ALDEHYDYKETONY.REAKCEALDEHYDŮ		
+			redukce, oxidace	redukce na alkoholy, oxidace na karboxylové kyseliny, redukce na CH2 skupinu	CH.OCH.ALDEHYDYKETONY.REAKCEALDEHYDŮ.OXIDACEREDUKCE		
+			poloacetaly, acetaly	adice alkoholů na karbonylovou skupinu, adice nuklofilní, thioacetaly 	CH.OCH.ALDEHYDYKETONY.REAKCEALDEHYDŮ.POLOACETALYACETALY		CH.BIOCH.SACHARIDY.MONOSACHARIDY
+			aldolizace, aldolová kondenzace	vodíky na alfa uhlíku, keto-enol forma, tautomerie, kysele a bazicky katalyzovaná aldolizace, Cannizzarova reakce	CH.OCH.ALDEHYDYKETONY.REAKCEALDEHYDŮ.ALDOLOVAKONDENZACEALDOLIZACE		tautomerie - izomerie
+			nukleofilní adice na karbonylu	adice na karbonylovou skupinu, adice organokovových činidel (Grignardova činidla), příprava alkoholů, reakce s aminy (hydroxylaminy, hydrazony, iminy)			
+		Významné aldehydy a ketony		formaldehyd, acetaldehyd, metabolismus ethanolu a methanolu, aceton	CH.OCH.ALDEHYDYKETONY.VÝZNAMNÉ		
+	Karboxylové kyseliny			karboxyl, karboxylové sloučeniny	CH.OCH.KARBOXYLOVÉKYSELINY		
+		Významné karboxylové kyseliny		kyselina octová, kyselina benzooová	CH.OCH.KARBOXYLOVÉKYSELINY.VÝZNAMNÉ		
+		Funkční deriváty karboxylových kyselin		změny na karboxylové skupině (funkci)	CH.OCH.KARBOXYLOVÉKYSELINY.FUNKČNÍDERIVÁTY		
+			halogenidy, anhydridy, estery, amidy, nitrily	reaktivita, substituce nukleofilní acylová, adice Grirgandova činidla na estery, tvorba sekundárních alkoholů 	CH.OCH.KARBOXYLOVÉKYSELINY.FUNKČNÍDERIVÁTY.HALOGENIDANHYDRIDYESTERYAMIDY		
+			esterifikace a hydrolýza esterů	zmýdelnění, kyselá hydrolýza, reesterifikace	CH.OCH.KARBOXYLOVÉKYSELINY.ESTERIFIKACE		CH.BIOCH.LIPIDY
+		Substituční deriváty karboxylových kyselin			CH.OCH.KARBOXYLOVÉKYSELINY.SUBSTITUČNÍDERIVÁTY		
+			substituce, aminokyseliny, hydroxykyseliny, halogenkyseliny		CH.OCH.KARBOXYLOVÉKYSELINY.SUBSTITUČNÍDERIVÁTY.AMINOKYSELINYHYDROXYKYSELINYHALOGENKYSELINY		aminokyseliny
+		Deriváty kyseliny uhličité		elektronová struktura kyseliny uhličité	CH.OCH.KARBOXYLOVÉKYSELINY.DERIVÁTYKYSELINYUHLIČITÉ		
+			fosgen	halogenid kyseliny uhličité, dichloridkarbonylu, Lewisova kyselina, reakce s vodou	CH.OCH.KARBOXYLOVÉKYSELINY.DERIVÁTYKYSELINYUHLIČITÉ.FOSGEN		
+			močovina	Výroba reakcí fosfenu s amoniakem	CH.OCH.KARBOXYLOVÉKYSELINY.DERIVÁTYKYSELINYUHLIČITÉ.MOČOVINA		
+	Deriváty uhlovodíků obsahující síru				CH.OCH.DERIVÁTYUHLOVODÍKŮSÍRA		
+		Thioly		syntéza thioetherů	CH.OCH.DERIVÁTYUHLOVODÍKŮSÍRA.THIOLY		
+		sulfonové kyseliny			CH.OCH.DERIVÁTYUHLOVODÍKŮSÍRA.SULFONOVÉKYSELINY		
+			sulfonáty	micely	CH.OCH.DERIVÁTYUHLOVODÍKŮSÍRA.SULFONOVÉKYSELINY.SULFONÁTY		
+	Heterocyklické sloučeniny				CH.OCH.HETEROCYKLICKÉ		
+		Aromatické heterocykly		Hückelovo pravidlo, purin, pyrimidin, furan, pyridin, thiofen	CH.OCH.HETEROCYKLICKÉ.AROMATICKÉHETEROCYKLY		
+		Neoromatické heterocykly		THF, tetrahydrofuran, piperidin, dioxan, oxiran	CH.OCH.HETEROCYKLICKÉ.NEAROMATICKÉHETEROCYKLY		
+	Reakce v organické chemii				CH.OCH.REAKCE		
+		Elektronové posuny v molekulách		reazonance, indukční a mezomerní efekt, delokalizace elektronů	CH.OCH.REAKCE.ELEKTRONOVÉPOSUNY		
+			Zápis reakčních mechanismů		CH.OCH.REAKCE.ELEKTRONOVÉPOSUNY.ZÁPIS		
+		Stabilita karbokationtů		hyperkonjugace, hydridový shift	CH.OCH.REAKCE.STABILITAKARBOKATIONTŮ		
+		acidobazické reakce v organické chemii		Bronstedovy a Lewisovy kyseliny	CH.OCH.REAKCE.ACIDOBAZICKÉ		
+		Indukční efekt			CH.OCH.REAKCE.INDUKČNÍEFEKT		
+		Mezomerní efekt			CH.OCH.REAKCE.MEZOMERNÍEFEKT		
+		Radikálová substituce		stabilita radikálů (primární, sekundární, terciární), mechanismus	CH.OCH.REAKCE.RADIKÁLOVÁSUBSTITUCE		iniciace, propagace, terminace - vyměnit a přesunout sem ???
+		Nukleofil, elektrofil			CH.OCH.REAKCE.NUKLEOFILELEKTROFIL		
+		Elektrofilní substituce			CH.OCH.REAKCE.ELEKTROFILNÍSUBSTITUCE		
+			Elektrofilní sustituce na aromatickém jádře	Friedelova-Craftsova alkylace a acylace, halogenace benzenu, nitrační směs, mechanismus	CH.OCH.REAKCE.ELEKTROFILNÍSUBSTITUCE.AROMATICKÉ		zkontrolovat výše u aromátů
+		Nukleofilní substituce		mechanismus SN1, mechanismus SN2, stabilita karbokationtů, odstupující skupina	CH.OCH.REAKCE.NUKLEOFILNÍSUBSTITUCE		
+		Adice			CH.OCH.REAKCE.ADICE		
+			adice radikálová	stabilita radikálů	CH.OCH.REAKCE.ADICE.RADIKÁLOVÁ		zkontrolovat adici radikálovou výše
+			adice iontová	Markovnikovo pravidlo, stabilita karbokationtů	CH.OCH.REAKCE.ADICE.IONTOVÁ		zkontrolovat výše
+		Eliminace		mechanismus E1, mechanismus E2, Newmanova projekce, Zajcevovo pravidlo, dehydrohalogenace, dehalogenace, tvorba alkenů	CH.OCH.REAKCE.ELIMINACE		
+		Elektrofilní adice			CH.OCH.REAKCE.ELEKTROFILNÍADICE		
+		Nukleofilní adice			CH.OCH.REAKCE.NUKLEOFILNÍADICE		
+		Oxidace a redukce v organické chemii			CH.OCH.REAKCE.REDOX		oxidační čísla v organických sloučeninách
+		Přesmyky			CH.OCH.REAKCE.PŘESMYKY		stabilita karbokationtů a radikálů
+		Polymerace		polymerace radikálová a iontová	CH.OCH.REAKCE.POLYMERACE		
+			Polykondenzace		CH.OCH.REAKCE.POLYMERACE.POLYKONDENZACE		
+			Polyadice		CH.OCH.REAKCE.POLYMERACE.POLYADICE		
+			Významné polymery	isopren, Nylon 66, polyamidy, polyestery	CH.OCH.REAKCE.POLYMERACE.VÝZNAMNÉPOLYMERY		
+Biochemie					CH.BIOCH		
+	Složení živých organismů				CH.BIOCH.SLOŽENÍORGANISMŮ		
+	Aminokyseliny			Význam aminokyselin	CH.BIOCH.AMINOKYSELINY		
+		Kódované aminokyseliny			CH.BIOCH.AMINOKYSELINY.KÓDOVANÉ		
+		Peptidová vazba			CH.BIOCH.AMINOKYSELINY.PEPTIDOVÁVAZBA		amidy - organická chemie
+		Amfifilní charakter aminokyselin		izoelektrický bod, v jaké formě je aminokyselina v bazickém (alkalickém) nebo kyselém prostředí	CH.BIOCH.AMINOKYSELINY.AMFIFILNÍCHARAKTER	kyseliny a báze	
+	Bílkoviny				CH.BIOCH.BÍLKOVINY		
+	Lipidy			lipofilní sloučeniny	CH.BIOCH.LIPIDY		CH.BIOCH.METABOLISMUS.SYNTÉZAMASTNÝCHKYSELIN
+		Tuky a oleje			CH.BIOCH.LIPIDY.TUKY		
+		Vosky			CH.BIOCH.LIPIDY.VOSKY		
+		Isoprenoidy		Terpeny, steroidy	CH.BIOCH.LIPIDY.ISOPRENOIDY		
+	Sacharidy			dříve uhlohydráty	CH.BIOCH.SACHARIDY		CH.BIOCH.METABOLISMUS.FOTOSYNTÉZA, CH.BIOCH.METABOLISMUS.GLYKOLÝZA
+		Monosacharidy		Lineární struktura, Cyklické struktury, poloacetaly, redukující, neredukující	CH.BIOCH.SACHARIDY.MONOSACHARIDY	CH.OCH.ALDEHYDYKETONY.REAKCEALDEHYDŮ.POLOACETALYACETALY	
+		disacharidy		alfa, beta konfigurace, redukující, neredukující	CH.BIOCH.SACHARIDY.DISACHARIDY		
+		Oligosacharidy			CH.BIOCH.SACHARIDY.OLIGOSACHARIDY		
+		Glykosidy			CH.BIOCH.SACHARIDY.GLYKOSIDY		
+		Polysacharidy			CH.BIOCH.SACHARIDY.POLYSACHARIDY		
+	Vitamíny				CH.BIOCH.VITAMÍNY		
+	Hormony				CH.BIOCH.HORMONY		
+	Léčiva a drogy				CH.BIOCH.LÉČIVADROGY		
+		Antibiotika			CH.BIOCH.LÉČIVADROGY.ANTIBIOTIKA		
+		Alkaloidy			CH.BIOCH.LÉČIVADROGY.ALKALOIDY		
+	Nukleové kyseliny				CH.BIOCH.NUKLEOVÉKYSELINY		CH.BIOCH.DĚDIČNOST
+	Enzymy			princip záknu a klíče, specifický a nespecifický enzym, snížení aktivační energie	CH.BIOCH.ENZYMY		
+		Klasifikace a názvosloví enzymů			CH.BIOCH.ENZYMY.KLASIFIKACE		
+		Složení enzymů			CH.BIOCH.ENZYMY.FUNKCE		
+		Funkce enzymů			CH.BIOCH.ENZYMY.FUNKCE		
+		Vlivy na aktivitu			CH.BIOCH.ENZYMY.VLIVYNAAKTIVITU		
+		Regulace enzymové aktivity			CH.BIOCH.ENZYMY.REGULACE		
+	Metabolismus a energetika biochemických dějů				CH.BIOCH.METABOLISMUS		
+		Rozdělení organismů podle metabolismu			CH.BIOCH.METABOLISMUS.ROZDĚLENÍORGANISMŮ		
+		Fotosyntéza		světelná a temnostní fáze fotosyntézy, energetická bilance	CH.BIOCH.METABOLISMUS.FOTOSYNTÉZA		
+		Dýchací řetězec			CH.BIOCH.METABOLISMUS.DÝCHACÍŘETĚZEC		
+		Oxidační fosforylace			CH.BIOCH.METABOLISMUS.OXIDAČNÍFOSFORYLACE		
+		Glykolýza			CH.BIOCH.METABOLISMUS.GLYKOLÝZA		
+		Citrátový cyklus			CH.BIOCH.METABOLISMUS.CITRÁTOVÝCYKLUS		
+		Kvašení			CH.BIOCH.METABOLISMUS.KVAŠENÍ		
+		Oxidace mastných kyselin		Beta oxdace mastných kyselin, Lynnenova spirála	CH.BIOCH.METABOLISMUS.OXIDACEMASTNÝCHKYSELIN		
+		Syntéza mastných kyselin			CH.BIOCH.METABOLISMUS.SYNTÉZAMASTNÝCHKYSELIN		
+		Metabolismus bílkovin			CH.BIOCH.METABOLISMUS.BÍLKOVIN		
+	Molekulární základ dědičnosti			centrální dogma molekulární biologie	CH.BIOCH.DĚDIČNOST		
+		Replikace			CH.BIOCH.DĚDIČNOST.REPLIKACE		
+		Transkripce			CH.BIOCH.DĚDIČNOST.TRANSKRIPCE		
+		Translace			CH.BIOCH.DĚDIČNOST.TRANSLACE		
