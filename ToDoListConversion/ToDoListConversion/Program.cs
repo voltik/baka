@@ -9,7 +9,7 @@ namespace ToDoListConversion
     {
         private const string GUID_PREFIX = "42414B41-0001-0001-"; // BAKA + ver + ver
         private const string LIST_GUID_PREFIX = GUID_PREFIX + "1111-"; // todo list
-        private static ToDoList list = new ToDoList() { Name = "To-do list", Guid = createGuid("0000") };
+        private static ToDoList list = new ToDoList() { Name = "Kontrolní seznam GDPR", Guid = createGuid("0000") };
 
         static void Main(string[] args)
         {
@@ -20,14 +20,14 @@ namespace ToDoListConversion
             for (int i = 1; i < lines.Length; i++)
             {
                 Console.WriteLine(i);
-                convert(lines[i]);
+                convert(lines[i], i);
             }
 
             string outp = JsonConvert.SerializeObject(list);
             File.WriteAllText(@"c:\petr\GDPR\to-do-checks-json.txt", outp, Encoding.UTF8);
         }
 
-        private static string convert(string s)
+        private static string convert(string s, int lnNo)
         {
             string[] x = s.Split('\t');
             string id = x[0];
@@ -40,12 +40,12 @@ namespace ToDoListConversion
                 string secDesc = x[7];
                 if (secName.Length > 0)
                 {
-                    var sec = new ToDoSection() { Name = secName, Number = num, Priority = 1, Guid = createGuid(id) };
+                    var sec = new ToDoSection() { Name = secName, Number = num, Priority = lnNo, Guid = createGuid(id) };
                     list.SectionSet.Add(sec);
                 }
                 else
                 {
-                    var chk = new ToDoCheck() { Name = chkName, Number = num, Priority = 1, Action = action, Description = secDesc, IsObsolete = false, Guid = createGuid(id) };
+                    var chk = new ToDoCheck() { Name = chkName, Number = num, Priority = lnNo, Action = action, Description = secDesc, IsObsolete = false, Guid = createGuid(id) };
                     var sec = list.SectionSet[list.SectionSet.Count - 1];
                     sec.CheckSet.Add(chk);
                 }
