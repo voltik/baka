@@ -1,1 +1,1 @@
-bin\debug\CecilTest.exe @03bakaWebNext.list
+bin\debug\CecilTest.exe 3 @03bakaWebNext.list

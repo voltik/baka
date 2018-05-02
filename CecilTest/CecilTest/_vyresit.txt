@@ -15,6 +15,7 @@ System.Int32 BakalariData.BakaFunctions.StringFn::CountWords(System.String,Syste
 - feature: ignorovat getery a settery
 - f: ignorovat web metody PageLoad, PageInit, ...
 - f: tisknout pristup u metod (public, private) a jit nejdriv po private
+- f: duplitity metod se stejnymi signaturami (napric tridami)?
 
 System.String Bakalari.Web.next.rozvrhVolny::GetHourDetailJson(Bakalari.Web.next.rozvrhVolny/HourDisplayItem)
 prozkoumat

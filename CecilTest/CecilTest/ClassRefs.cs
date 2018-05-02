@@ -8,24 +8,23 @@ namespace CecilTest
     public class ClassRefs
     {
         public TypeDefinition type { get; }
-        public List<string> definedMethods { get; }
-        public HashSet<string> calledMethods { get; }
+        public List<MethodDesc> definedMethods { get; }
+        public Dictionary<string, MethodDesc> calledMethods { get; }
 
         public ClassRefs(TypeDefinition type)
         {
             this.type = type;
-            definedMethods = new List<string>();
-            calledMethods = new HashSet<string>();
+            definedMethods = new List<MethodDesc>();
+            calledMethods = new Dictionary<string, MethodDesc>();
             scan();
         }
 
         private void scan()
         {
-            Console.WriteLine("Type " + type);
             foreach (var method in type.Methods)
             {
-                Console.WriteLine("Method " + method);
-                definedMethods.Add(method.ToString());
+                dot();
+                definedMethods.Add(new MethodDesc(method));
                 if (method.HasBody)
                 {
                     foreach (var instruction in method.Body.Instructions)
@@ -36,11 +35,26 @@ namespace CecilTest
                             var methodCall = instruction.Operand as MethodReference;
                             if (methodCall != null && !filter(methodCall))
                             {
-                                calledMethods.Add(methodCall.ToString());
+                                var m = new MethodDesc(methodCall);
+                                if (!calledMethods.ContainsKey(m.Signature))
+                                {
+                                    calledMethods.Add(m.Signature, m);
+                                }
                             }
                         }
                     }
                 }
+            }
+        }
+
+        private int dotCount = 0;
+
+        private void dot()
+        {
+            if (++dotCount > 20)
+            {
+                Console.Write(".");
+                dotCount = 0;
             }
         }
 
@@ -72,7 +86,7 @@ namespace CecilTest
             Console.WriteLine("CALLED:");
             foreach (var m in calledMethods)
             {
-                Console.WriteLine("\t" + m);
+                Console.WriteLine("\t" + m.Value);
             }
         }
     }

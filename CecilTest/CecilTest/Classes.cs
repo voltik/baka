@@ -38,16 +38,16 @@ namespace CecilTest
                 res.Append("CALLED:\n");
                 foreach (var m in c.calledMethods)
                 {
-                    res.Append("\t").Append(m).Append("\n");
+                    res.Append("\t").Append(m.Value).Append("\n");
                 }
             }
             res.Append("END\n");
             File.WriteAllText(fn, res.ToString());
         }
 
-        public List<string> FindNotUsed()
+        public List<MethodDesc> FindNotUsed()
         {
-            var res = new List<string>();
+            var res = new List<MethodDesc>();
             foreach (var cl in classes)
             {
                 foreach (var m in cl.definedMethods)
@@ -61,13 +61,13 @@ namespace CecilTest
             return res;
         }
 
-        private bool isCalled(string method)
+        private bool isCalled(MethodDesc method)
         {
             foreach (var cl in classes)
             {
-                foreach (var m in cl.calledMethods)
+                foreach (var m in cl.calledMethods.Keys)
                 {
-                    if (m == method)
+                    if (m == method.Signature)
                     {
                         return true;
                     }
