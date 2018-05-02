@@ -1,0 +1,27 @@
+03
+isMatchingEvent
+je to volano, proc se zobrazuje jako nepouzite?
+
+
+System.Void Bakalari.Interfaces.Gdpr.IPrintEvent::set_Id(System.Int32)
+IPrintEvent - settery tam nemaji byt!
+
+System.Collections.Generic.List`1<Bakalari.Interfaces.Gdpr.IPrintReason> Bakalari.Interfaces.Gdpr.IPrintLogService::GetPrintReasons()
+volani na interfacu - jak to zpracovat?
+
+System.Int32 BakalariData.BakaFunctions.StringFn::CountWords(System.String,System.Char,System.Boolean)
+- vyhazet pokusne nejdriv BakaFunctions? lze to udelat kdyz to muze porusit API pro ostatni moduly?
+
+- feature: ignorovat getery a settery
+- f: ignorovat web metody PageLoad, PageInit, ...
+- f: tisknout pristup u metod (public, private) a jit nejdriv po private
+
+System.String Bakalari.Web.next.rozvrhVolny::GetHourDetailJson(Bakalari.Web.next.rozvrhVolny/HourDisplayItem)
+prozkoumat
+
+System.Web.Mvc.ActionResult Bakalari.Web.Areas.Gdpr.Controllers.ConsentController::Overview()
+- routy se nevolaji primo - poznat podle atributu?
+
+System.Void Bakalari.Web.n_serpwd_lib.n_serpwd_class::zobrazucty(System.Boolean)
+- zakomentovat
+
