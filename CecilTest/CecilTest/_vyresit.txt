@@ -12,9 +12,6 @@ volani na interfacu - jak to zpracovat?
 System.Int32 BakalariData.BakaFunctions.StringFn::CountWords(System.String,System.Char,System.Boolean)
 - vyhazet pokusne nejdriv BakaFunctions? lze to udelat kdyz to muze porusit API pro ostatni moduly?
 
-- feature: ignorovat getery a settery
-- f: ignorovat web metody PageLoad, PageInit, ...
-- f: tisknout pristup u metod (public, private) a jit nejdriv po private
 - f: duplitity metod se stejnymi signaturami (napric tridami)?
 
 System.String Bakalari.Web.next.rozvrhVolny::GetHourDetailJson(Bakalari.Web.next.rozvrhVolny/HourDisplayItem)
@@ -26,3 +23,6 @@ System.Web.Mvc.ActionResult Bakalari.Web.Areas.Gdpr.Controllers.ConsentControlle
 System.Void Bakalari.Web.n_serpwd_lib.n_serpwd_class::zobrazucty(System.Boolean)
 - zakomentovat
 
+System.Int32 Bakalari.Data.Core.Events.EventObjects`1<Bakalari.Data.Core.TimeTable.Teacher>::GetIndex(System.String)
+vs
+System.Int32 Bakalari.Data.Core.Events.EventObjects`1::GetIndex(System.String)

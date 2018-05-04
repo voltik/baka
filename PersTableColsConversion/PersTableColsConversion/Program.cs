@@ -11,9 +11,10 @@ namespace PersTableColsConversion
         static void Main(string[] args)
         {
             var res = new GdprTables() { Records = new List<GdprTableField>() };
-            string path = @"c:\Users\Pribram01\Documents\Visual Studio 2015\Projects\PersTableColsConversion\PersTableColsConversion\";
+            string path = @"c:\petr.git\baka\PersTableColsConversion\PersTableColsConversion\";
             process(res, path + "zaci.txt", "zaci");
             process(res, path + "ucitele.txt", "ucitele");
+            process(res, path + "rodice.txt", "zaci_zzd");
             string s = JsonConvert.SerializeObject(res);
             File.WriteAllText(path + "output.txt", s, Encoding.UTF8);
             Console.WriteLine(s);
@@ -40,7 +41,7 @@ namespace PersTableColsConversion
 
         private static int typ(string str)
         {
-            switch (str)
+            switch (str.ToUpper())
             {
                 case "ŠZ":
                     return 2;
