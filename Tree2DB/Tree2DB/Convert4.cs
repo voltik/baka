@@ -6,9 +6,9 @@ using System.Text;
 
 namespace Tree2DB
 {
-    // Ch
-    // k0 k1 k2 k3 desc id prep related
-    class Convert2
+    // Prir
+    // k0 k1 k2 k3 desc id
+    class Convert4
     {
         private Node root = new Node() { Id = "root" };
         private Stack<Node> path = new Stack<Node>();
@@ -20,7 +20,7 @@ namespace Tree2DB
             foreach (string ln in File.ReadAllLines(fn))
             {
                 string[] x = ln.Split('\t');
-                if (x.Length < 8)
+                if (x.Length < 6)
                 {
                     Console.WriteLine("Line too short: " + ln);
                     continue; // return;
@@ -31,8 +31,8 @@ namespace Tree2DB
                 string k3 = x[3].Trim();
                 string descr = x[4].Trim();
                 string id = x[5].Trim();
-                string prer = x[6].Trim();
-                string related = x[7].Trim();
+                string prer = "";
+                string related = "";
 
                 if (ids.Contains(id))
                 {
@@ -84,21 +84,6 @@ namespace Tree2DB
             {
                 path.Pop();
             }
-        }
-    }
-
-    internal class Node
-    {
-        public string Id { get; set; }
-        public string Name { get; set; }
-        public string Descr { get; set; }
-        public string Prereq { get; set; }
-        public string Related { get; set; }
-        public List<Node> Subnodes { get; set; }
-
-        internal Node()
-        {
-            Subnodes = new List<Node>();
         }
     }
 }

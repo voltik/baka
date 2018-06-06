@@ -46,6 +46,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Convert1.cs" />
+    <Compile Include="Convert5.cs" />
+    <Compile Include="Convert4.cs" />
+    <Compile Include="Convert3.cs" />
     <Compile Include="Convert2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
